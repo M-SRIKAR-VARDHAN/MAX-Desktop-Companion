@@ -28,15 +28,6 @@
 
 </div>
 
-<!-- Star History Chart — shows growth over time -->
-<div align="center">
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=M-SRIKAR-VARDHAN/MAX-Desktop-Companion&type=Date)](https://star-history.com/#M-SRIKAR-VARDHAN/MAX-Desktop-Companion&Date)
-
-</div>
-
 ---
 
 ## What is MAX?
@@ -228,6 +219,12 @@ Found a bug? Have a feature request? [Open an issue](https://github.com/M-SRIKAR
 <br>
 
 **Every star, share, and issue report helps a student developer build something meaningful.**
+
+<br>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=M-SRIKAR-VARDHAN/MAX-Desktop-Companion&type=Date)](https://star-history.com/#M-SRIKAR-VARDHAN/MAX-Desktop-Companion&Date)
 
 <br>
 
