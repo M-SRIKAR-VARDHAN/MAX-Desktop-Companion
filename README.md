@@ -19,7 +19,7 @@
 
 <br>
 
-> *"Not all heroes wear capes. Some wear dark armor, walk on your windows, and save a planet one click at a time."*
+> *"I may not succeed but my failure will inspire the one who will succeed"*
 
 <br>
 
