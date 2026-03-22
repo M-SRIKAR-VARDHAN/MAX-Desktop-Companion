@@ -168,11 +168,21 @@ MAX stepped into a wormhole and crashed onto your desktop. To him, you are a god
 <a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249">LinkedIn</a>
 </td>
 <td align="center" width="33%">
+<b>Chukka Abhinay</b><br>
+<sub>Art · Design · Creative Direction</sub><br>
+<sub>NIT Silchar</sub><br>
+<a href="https://www.linkedin.com/in/chukka-abhinay-164056258/">LinkedIn</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 <b>Sangam Sai Anish</b><br>
 <sub>Ideation · Strategy · Marketing</sub><br>
 <sub>NIT Silchar</sub><br>
 <a href="https://www.linkedin.com/in/sangamsaianish/">LinkedIn</a>
 </td>
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
 </tr>
 </table>
 
