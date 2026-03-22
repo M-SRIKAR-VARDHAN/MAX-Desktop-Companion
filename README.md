@@ -103,12 +103,20 @@ Download. Run. Done.
 
 ## Download
 
-### [Download MAX.exe](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest)
+<div align="center">
 
-1. Download `MAX.exe` from the latest release
-2. Run it — MAX drops onto your taskbar
-3. **Right-click MAX** to open the menu
-4. That's it. No install. No setup.
+### [![Download MAX](https://img.shields.io/badge/DOWNLOAD-MAX.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest)
+
+**54MB · Windows 10/11 · No install needed · No Python needed**
+
+</div>
+
+| Step | Action |
+|------|--------|
+| 1 | Download `MAX.exe` from the button above |
+| 2 | Double-click it — MAX drops onto your taskbar |
+| 3 | **Right-click MAX** to open the menu |
+| 4 | That's it. No setup. No account. No internet. |
 
 > To uninstall: just delete the file. MAX leaves no traces.
 
@@ -188,31 +196,26 @@ MAX stepped into a wormhole and crashed onto your desktop. To him, you are a god
 
 ---
 
-## Star This Repo
-
-If MAX made you smile, **star this repo** — it helps a solo student developer more than you know.
-
----
-
-## Report Issues
-
-Found a bug? Have a feature request? [Open an issue](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new).
-
----
-
----
-
-## Activity
+## How You Can Help
 
 <div align="center">
 
-<!-- Repo activity graph -->
-![Alt](https://repobeats.axiom.co/api/embed/placeholder.svg "Repobeats analytics image")
+| Action | How | Why it matters |
+|--------|-----|----------------|
+| ⭐ **Star this repo** | Click the star button above | Shows support, helps visibility |
+| 🐛 **Report bugs** | [Open a bug report](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.md) | Attach `%APPDATA%\ProjectMAX\max.log` so we can fix it fast |
+| 💡 **Request features** | [Open a feature request](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.md) | Your ideas shape MAX's future |
+| 📢 **Share with friends** | Use the share buttons below | More users = more energy for MAX's planet |
 
-<!-- GitHub profile stats for the creator -->
+</div>
+
+---
+
+## The Developer
+
+<div align="center">
+
 [![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-SRIKAR-VARDHAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=FFD700&text_color=ffffff)](https://github.com/M-SRIKAR-VARDHAN)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-SRIKAR-VARDHAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff)](https://github.com/M-SRIKAR-VARDHAN)
 
 </div>
 
