@@ -42,7 +42,7 @@ He's not just cute. He's a **one-click shortcut** to things Windows makes hard:
 - Clean temp files
 - ...and 40+ more features
 
-**No installation. No data collection. No internet needed.**
+**No setup required. No data collection. No internet needed.**
 Download. Run. Done.
 
 ---
@@ -107,7 +107,7 @@ Download. Run. Done.
 
 ### [![Download MAX](https://img.shields.io/badge/DOWNLOAD-MAX.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest)
 
-**54MB · Windows 10/11 · No install needed · No Python needed**
+**54MB · Windows 10/11 · Portable (no setup wizard) · No Python needed**
 
 </div>
 
