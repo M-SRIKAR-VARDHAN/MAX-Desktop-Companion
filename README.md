@@ -49,7 +49,20 @@ Download. Run. Done.
 
 ## Features
 
-### Fun & Movement
+### Highlights
+
+| Feature | What it does |
+|---------|-------------|
+| Push | Push windows off your screen |
+| Ride | Jump onto your cursor and ride it |
+| WiFi Password | Show saved WiFi password instantly |
+| Kill Process | Kill frozen/unresponsive apps (with safety) |
+| Screenshot | Capture screen, saved to Desktop/MAX Captures |
+| Health Monitor | Live CPU, RAM, disk stats |
+
+<details>
+<summary><b>Fun & Movement</b> — 9 features</summary>
+
 | Feature | What it does |
 |---------|-------------|
 | Push | Push windows off your screen |
@@ -62,7 +75,11 @@ Download. Run. Done.
 | Follow | MAX follows your cursor everywhere |
 | Surf | Surf on moving windows |
 
-### Utility Tools
+</details>
+
+<details>
+<summary><b>Utility Tools</b> — 10 features</summary>
+
 | Feature | What it does |
 |---------|-------------|
 | Screenshot | Capture screen, saved to Desktop/MAX Captures |
@@ -76,7 +93,11 @@ Download. Run. Done.
 | Battery | Status, health, power plan |
 | Health Monitor | Live CPU, RAM, disk stats |
 
-### System Management
+</details>
+
+<details>
+<summary><b>System Management</b> — 10 features</summary>
+
 | Feature | What it does |
 |---------|-------------|
 | Kill Process | Kill frozen/unresponsive apps (with safety) |
@@ -90,7 +111,11 @@ Download. Run. Done.
 | Dark Mode | Toggle Windows dark mode |
 | Bloat Finder | Find memory-hungry processes |
 
-### Personality
+</details>
+
+<details>
+<summary><b>Personality</b></summary>
+
 - 13 facial expressions (happy, scared, love, dizzy, ko...)
 - Reacts to your clipboard (copies code? puts on glasses)
 - Idle animations (wave, nap, stretch, fish, game)
@@ -98,6 +123,8 @@ Download. Run. Done.
 - App-aware (different reactions for VS Code, YouTube, Discord)
 - Seasonal outfits (Christmas hat, Halloween pumpkin)
 - Philosophical wisdom quotes when idle
+
+</details>
 
 ---
 
@@ -122,6 +149,17 @@ Download. Run. Done.
 
 ---
 
+## Shortcuts
+
+| Action | How |
+|--------|-----|
+| Open menu | Right-click MAX or **Ctrl+M** |
+| Stop feature | Click active badge, **Escape**, or double-click MAX |
+| Dismount ride | Right-click while riding |
+| Find MAX | Check system tray icon |
+
+---
+
 ## Cheat Codes
 
 Type these on your keyboard while MAX is visible:
@@ -135,17 +173,6 @@ Type these on your keyboard while MAX is visible:
 | `diwali` | Colorful fireworks | 5 seconds |
 | `draw` | Rainbow pixel doodles on screen | 15 seconds |
 | `magnet` | Cursor pulls MAX toward it | 15 seconds |
-
----
-
-## Shortcuts
-
-| Action | How |
-|--------|-----|
-| Open menu | Right-click MAX or **Ctrl+M** |
-| Stop feature | Click active badge, **Escape**, or double-click MAX |
-| Dismount ride | Right-click while riding |
-| Find MAX | Check system tray icon |
 
 ---
 
