@@ -162,7 +162,9 @@ Download. Run. Done.
 
 ## Cheat Codes
 
-Type these on your keyboard while MAX is visible:
+While MAX is visible on screen, just start typing - no text box, no clicks needed.
+MAX listens globally in the background. Type the full code and the effect triggers instantly.
+*(Works on desktop or any app, as long as MAX is running.)*
 
 | Code | Effect | Duration |
 |------|--------|----------|
