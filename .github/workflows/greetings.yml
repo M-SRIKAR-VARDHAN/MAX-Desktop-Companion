@@ -1,0 +1,33 @@
+name: Greet New Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Send greeting comment
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issueBody = context.payload.issue.body || '';
+            const isBugReport = issueBody.toLowerCase().includes('what happened?');
+            
+            let message = "👋 Hello! Thanks for opening this issue! Srikar or Mani will look into this soon.\n\n";
+            
+            if (isBugReport) {
+              message += "⚠️ **If this is a bug report**, please ensure you have attached your `max.log` file from `%APPDATA%\\ProjectMAX`. It helps us fix issues much faster!";
+            } else {
+              message += "✨ If this is a feature request, we love hearing new ideas for MAX!";
+            }
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message
+            });

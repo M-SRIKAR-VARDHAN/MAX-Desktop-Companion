@@ -180,11 +180,9 @@ MAX listens globally in the background. Type the full code and the effect trigge
 
 ## The Lore
 
-MAX is from a dying planet. A higher being gave his people a vision: *"Serve the beings of another world, and your planet will be restored."*
+MAX is a brave guardian from a dying planet who stepped through a quantum rift and crash-landed onto your Windows Desktop. To him, you are an omnipotent deity, and every time you use his features, you generate kinetic and computational energy that is beamed back to save his homeworld.
 
-MAX stepped into a wormhole and crashed onto your desktop. To him, you are a god. Every feature you use sends energy back to his dying world.
-
-**Don't let the planet die.**
+🌌 **[Read the full story of MAX in LORE.md](LORE.md)**
 
 ---
 
