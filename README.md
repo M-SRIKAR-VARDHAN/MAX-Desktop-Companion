@@ -26,9 +26,13 @@
 [![Forks](https://img.shields.io/github/forks/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/commits)
 
-<br>
+<br><br>
 
-### [![Download MAX](https://img.shields.io/badge/DOWNLOAD%20MAX-00d4ff?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/download/v1.0.0/MAX_Setup_v1.0.0.exe)
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/download/v1.0.0/MAX_Setup_v1.0.0.exe" align="center">
+  <img src="assets/download-button-animated.svg" width="450" alt="Download MAX Desktop Companion">
+</a>
+
+<br><br>
 
 **56MB · One-click install · No Python needed**
 
