@@ -53,6 +53,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 ## Table of Contents
 - [Open Source Status](#open-source-status)
 - [Is it safe?](#is-it-safe)
+- [What MAX Never Does](#what-max-never-does)
 - [He moves.](#he-moves)
 - [He's useful.](#hes-useful)
 - [He has secrets.](#he-has-secrets)
@@ -60,6 +61,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 - [The Lore](#the-lore)
 - [45+ features. One right-click.](#45-features-one-right-click)
 - [FAQ & Troubleshooting](#faq--troubleshooting)
+- [Failure Recovery Quick Card](#failure-recovery-quick-card)
 - [Quick Troubleshooting Index](#quick-troubleshooting-index)
 - [Shortcuts](#shortcuts)
 
@@ -82,6 +84,13 @@ If you want to help, you can still make a big impact by reporting bugs, sharing 
 - Can be removed anytime by quitting MAX and deleting its files
 
 For full uninstall details, see FAQ item 3 below.
+
+## What MAX Never Does
+
+- No cloud sync of your files or activity
+- No keylogging of what you type
+- No background network calls required for core features
+- No startup on boot without your consent
 
 ---
 
@@ -318,6 +327,14 @@ He doesn't know if his planet is still alive. He works anyway.
 ## FAQ & Troubleshooting
 
 </div>
+
+### Failure Recovery Quick Card
+
+- MAX disappeared: Press **Ctrl+M** to summon/open menu from anywhere.
+- MAX froze: Press **Escape** or double-click MAX to stop the active feature.
+- Physics feels broken: Set Windows Display Scaling to 100% and retry.
+- Feels laggy: Close heavy apps and keep hardware acceleration enabled.
+- Still broken: Restart MAX and attach logs from `%APPDATA%\ProjectMAX\max.log` when filing an issue.
 
 ### Quick Troubleshooting Index
 
