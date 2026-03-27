@@ -425,7 +425,7 @@ NIT Silchar
 <table>
 <tr>
 <td align="center" width="33%">
-<b>Batchu Mani Kiran</b><br>
+<h3>Batchu Mani Kiran</h3>
 <sub>Developer & Engineer</sub><br>
 <sub>NIT Silchar</sub><br>
 <a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249">LinkedIn</a>
