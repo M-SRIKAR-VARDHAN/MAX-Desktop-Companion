@@ -427,6 +427,16 @@ NIT Silchar
 <a href="https://www.linkedin.com/in/sangamsaianish/">LinkedIn</a>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<b>K N V Hemanth Sai Kumar</b><br>
+<sub>Developer</sub><br>
+<sub>NIT Silchar</sub><br>
+<a href="https://www.linkedin.com/in/hemanth-sai-kumar-knv-a62101258/">LinkedIn</a>
+</td>
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
+</tr>
 </table>
 
 ---
