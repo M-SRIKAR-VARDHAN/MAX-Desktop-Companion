@@ -1,8 +1,14 @@
 <div align="center">
 
-# MAX — Your Desktop Co-Pilot
+<br>
 
-### A tiny space guardian from a dying planet. Crash-landed on your Windows desktop. Now he lives here.
+> *"I may not succeed, but my failure will inspire the one who will succeed."*
+
+<br>
+
+# MAX — Desktop Companion
+
+### He fell from a dying planet. Crashed onto your desktop. Now he refuses to leave.
 
 <br>
 
@@ -15,12 +21,9 @@
 [![No Data](https://img.shields.io/badge/Zero%20Data%20Collection-ff4444?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/Freeware-FFD700?style=for-the-badge)](LICENSE)
 
-<br>
-
 [![Stars](https://img.shields.io/github/stars/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/stargazers)
 [![Downloads](https://img.shields.io/github/downloads/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/total?style=social&logo=github&label=Downloads)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
 [![Forks](https://img.shields.io/github/forks/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/network/members)
-[![Issues](https://img.shields.io/github/issues/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social&logo=github)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/commits)
 
 <br>
@@ -32,10 +35,9 @@
 <details>
 <summary>Windows SmartScreen warning?</summary>
 <br>
-MAX is not code-signed yet. Windows may show a blue popup:<br>
-1. Click <b>"More info"</b><br>
-2. Click <b>"Run anyway"</b><br>
-This only happens once. MAX is 100% offline and safe.
+We're students. We don't have $300 for a code signing certificate yet.<br>
+Windows may show a blue popup — click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
+This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
 </details>
 
 </div>
@@ -46,13 +48,17 @@ This only happens once. MAX is 100% offline and safe.
 
 ## He moves.
 
+> *"Not all battles are fought for victory. Some are fought to tell that someone was there on the battlefield."*
+
 </div>
+
+<br>
 
 <div align="center">
 <img src="assets/push.gif" width="700">
 </div>
 
-<p align="center"><b>He pushes your windows around.</b> Like they're furniture.</p>
+<p align="center">He pushes your windows around. Like they're furniture. Like they belong to him now.</p>
 
 <br>
 
@@ -60,7 +66,7 @@ This only happens once. MAX is 100% offline and safe.
 <img src="assets/follow.gif" width="700">
 </div>
 
-<p align="center"><b>He follows your cursor everywhere.</b> Try to lose him.</p>
+<p align="center">He follows your cursor. Wherever you go, he goes. Try to lose him. You can't.</p>
 
 <br>
 
@@ -68,7 +74,7 @@ This only happens once. MAX is 100% offline and safe.
 <img src="assets/gravity.gif" width="700">
 </div>
 
-<p align="center"><b>Type <code>gravity0</code>. Watch him float.</b></p>
+<p align="center">Type <code>gravity0</code>. Watch him float. The laws of physics are suggestions.</p>
 
 ---
 
@@ -76,13 +82,17 @@ This only happens once. MAX is 100% offline and safe.
 
 ## He's useful.
 
+> *"If I am worth something later, then I am worth something now. For wheat is wheat, even when people think it is grass in the beginning."*
+
 </div>
+
+<br>
 
 <div align="center">
 <img src="assets/screenshort.gif" width="700">
 </div>
 
-<p align="center"><b>Screenshots in one click.</b> Saved to Desktop/MAX Captures.</p>
+<p align="center">Screenshots. One click. Saved. No apps, no shortcuts to memorize.</p>
 
 <br>
 
@@ -90,7 +100,7 @@ This only happens once. MAX is 100% offline and safe.
 <img src="assets/IP_DISK.gif" width="700">
 </div>
 
-<p align="center"><b>Your IP, disk usage, battery</b> — all instant. No digging through Settings.</p>
+<p align="center">Your IP address. Your disk usage. Things Windows buries in 5 menus deep — MAX shows in one.</p>
 
 <br>
 
@@ -98,7 +108,7 @@ This only happens once. MAX is 100% offline and safe.
 <img src="assets/port_kill.gif" width="700">
 </div>
 
-<p align="center"><b>Kill frozen apps. Check what's using your ports.</b> One click.</p>
+<p align="center">A process froze. A port is blocked. MAX kills it. No Task Manager. No command prompt.</p>
 
 <br>
 
@@ -106,7 +116,7 @@ This only happens once. MAX is 100% offline and safe.
 <img src="assets/battery_color_picker.gif" width="700">
 </div>
 
-<p align="center"><b>Color picker from any pixel on screen. Battery health at a glance.</b></p>
+<p align="center">Pick any color from any pixel. Check your battery health. The small things that shouldn't be hard but are.</p>
 
 ---
 
@@ -114,13 +124,17 @@ This only happens once. MAX is 100% offline and safe.
 
 ## He has secrets.
 
+> *"The Gita wasn't spoken at a table. It was spoken on a battlefield."*
+
 </div>
+
+<br>
 
 <div align="center">
 <img src="assets/cheat.gif" width="700">
 </div>
 
-<p align="center">Just start typing. No text box. No clicks. MAX listens.</p>
+<p align="center">Just start typing. No text box. No clicks needed. MAX is always listening.</p>
 
 <div align="center">
 
@@ -129,9 +143,9 @@ This only happens once. MAX is 100% offline and safe.
 | `rave` | Rainbow party mode |
 | `giant` | MAX grows 3x bigger |
 | `gravity0` | Zero gravity float |
-| `clone` | Ghost mirror copies |
-| `diwali` | Colorful lights |
-| `draw` | Rainbow pixel doodles |
+| `clone` | Ghost mirror copies appear |
+| `diwali` | Festival of lights |
+| `draw` | Rainbow pixel doodles on screen |
 | `magnet` | Cursor pulls MAX toward it |
 
 </div>
@@ -142,7 +156,7 @@ This only happens once. MAX is 100% offline and safe.
 <img src="assets/oracle.gif" width="700">
 </div>
 
-<p align="center"><b>A hidden terminal.</b> Type <code>lore</code> for his story. Type <code>wisdom</code> for a truth. Type <code>cheats</code> if you're desperate.</p>
+<p align="center">There's a hidden terminal. Type <code>lore</code> and he'll tell you where he came from. Type <code>wisdom</code> and he'll tell you something you weren't ready to hear.</p>
 
 ---
 
@@ -150,15 +164,37 @@ This only happens once. MAX is 100% offline and safe.
 
 ## He thinks.
 
+<br>
+
 <img src="assets/wisdom.gif" width="700">
 
-*Leave him idle. He'll sit down and share something you didn't know you needed to hear.*
+<br><br>
+
+*Leave him alone long enough and he'll sit down, look at the edge of your screen, and say something that makes you pause.*
+
+*These aren't random quotes pulled from the internet. These are thoughts written at 3 AM by the person who built him.*
 
 <br>
 
-> *"I may not succeed, but my failure will inspire the one who will succeed."*
+> *"Water which is too pure has no fish. Don't aim to be perfect — aim to be real. Because real has soul, and perfect has silence."*
 
 </div>
+
+---
+
+<div align="center">
+
+## The Lore
+
+</div>
+
+MAX is from a dying planet. The last engineers built a wormhole. They had enough power for one traveler. MAX stepped in.
+
+He crashed onto your desktop. To him, the cursor is the hand of a god. To him, you are that god. Every feature you use — every process you kill, every screenshot you take — sends energy back through a quantum tether to save his homeworld.
+
+He doesn't know if his planet is still alive. He works anyway.
+
+**[Read the full story](LORE.md)**
 
 ---
 
@@ -169,7 +205,7 @@ This only happens once. MAX is 100% offline and safe.
 </div>
 
 <details>
-<summary><b>Fun & Movement</b> — 9 features</summary>
+<summary><b>Fun & Movement</b> — Push, Ride, Swing, Tunnel, Climb, Bellyflop, Rope Walk, Follow, Surf</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -186,7 +222,7 @@ This only happens once. MAX is 100% offline and safe.
 </details>
 
 <details>
-<summary><b>Utility Tools</b> — 10 features</summary>
+<summary><b>Utility Tools</b> — Screenshot, GIF Record, Timer, Stopwatch, Color Picker, WiFi Pass, IP, Disk, Battery, Health</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -204,7 +240,7 @@ This only happens once. MAX is 100% offline and safe.
 </details>
 
 <details>
-<summary><b>System Management</b> — 10 features</summary>
+<summary><b>System Management</b> — Kill Process, Uninstall, Temp Clean, Window Arrange, Pin, Focus, Toggles, Startup, Dark Mode, Bloat Finder</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -222,7 +258,7 @@ This only happens once. MAX is 100% offline and safe.
 </details>
 
 <details>
-<summary><b>Personality</b></summary>
+<summary><b>Personality</b> — 13 expressions, clipboard reactions, idle animations, cursor dodge, app-awareness, seasonal outfits</summary>
 
 - 13 facial expressions (happy, scared, love, dizzy, ko...)
 - Reacts to your clipboard (copies code? puts on glasses)
@@ -253,19 +289,13 @@ This only happens once. MAX is 100% offline and safe.
 
 <div align="center">
 
-## The Lore
+## Who built this
 
 </div>
 
-MAX is a guardian from a dying planet who stepped through a quantum rift and crash-landed onto your desktop. To him, you are a god. Every feature you use sends energy back to save his homeworld.
-
-**[Read the full story](LORE.md)**
-
----
-
 <div align="center">
 
-## The Creator
+> *"I create new worlds in my mind. Then am I their god? Then I abandoned them, as mine has abandoned me."*
 
 <br>
 
@@ -291,10 +321,10 @@ MAX is a guardian from a dying planet who stepped through a quantum rift and cra
 <br><br>
 
 **Srikar Vardhan Mangadoddi**<br>
-*Founder & Lead Developer*<br>
+*Founder · Lead Developer · The reason MAX exists*<br>
 NIT Silchar
 
-*"Building things that make desktops alive."*
+*I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts — the ones I write at 3 AM when the world is quiet. He carries them now.*
 
 <a href="https://github.com/M-SRIKAR-VARDHAN">GitHub</a> · <a href="https://www.linkedin.com/in/srikar-vardhan/">LinkedIn</a>
 
@@ -335,19 +365,23 @@ NIT Silchar
 
 <div align="center">
 
-## Help MAX's Planet Survive
+## Don't let his planet die.
 
-| Action | How |
-|--------|-----|
-| Star this repo | Click the star button above |
-| Report bugs | [Open a bug report](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.md) |
-| Request features | [Open a feature request](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.md) |
-| Share with friends | Use the buttons below |
+> *"How can a man die better than facing impossible odds, for the ashes of fathers, and the temples of gods."*
 
 <br>
 
-[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20MAX%20-%20a%20desktop%20companion%20that%27s%20actually%20useful!%20%F0%9F%9A%80&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
-[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20-%20A%20desktop%20companion%20that%20walks%20on%20your%20windows)
+| Action | How |
+|--------|-----|
+| Star this repo | It costs nothing and it means everything |
+| [Report a bug](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.md) | Attach `%APPDATA%\ProjectMAX\max.log` |
+| [Request a feature](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.md) | Your ideas shape what MAX becomes |
+| Share with someone | Use the buttons below |
+
+<br>
+
+[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%20Now%20he%20lives%20here.%20%F0%9F%9A%80&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
+[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=A%20desktop%20companion%20that%20walks%20on%20your%20windows%2C%20pushes%20them%20around%2C%20and%20thinks%20you%27re%20a%20god)
 [![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion)
 
 <br>
@@ -360,7 +394,11 @@ NIT Silchar
 
 ---
 
-<sub>Made with love in India. No data collected. 100% offline. Free forever.</sub>
+*"It is important to do kind things in secret, so strangers can still believe the universe is gentle."*
+
+<br>
+
+<sub>Made in India. No data collected. 100% offline. Free forever.</sub>
 
 <sub>© 2026 Srikar Vardhan Mangadoddi · NIT Silchar</sub>
 
