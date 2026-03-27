@@ -51,6 +51,8 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 <div align="center">
 
 ## Table of Contents
+- [Open Source Status](#open-source-status)
+- [Is it safe?](#is-it-safe)
 - [He moves.](#he-moves)
 - [He's useful.](#hes-useful)
 - [He has secrets.](#he-has-secrets)
@@ -58,9 +60,28 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 - [The Lore](#the-lore)
 - [45+ features. One right-click.](#45-features-one-right-click)
 - [FAQ & Troubleshooting](#faq--troubleshooting)
+- [Quick Troubleshooting Index](#quick-troubleshooting-index)
 - [Shortcuts](#shortcuts)
 
 </div>
+
+---
+
+## Open Source Status
+
+MAX is free to use and this repository is public for transparency, docs, issue tracking, and releases.
+
+At this time, the production source code is maintained in a private repository by a small team.
+If you want to help, you can still make a big impact by reporting bugs, sharing logs, and suggesting features in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Is it safe?
+
+- Runs fully offline (no cloud dependency to function)
+- No telemetry or analytics collection from MAX itself
+- Creates local app data/log files under `%APPDATA%\ProjectMAX`
+- Can be removed anytime by quitting MAX and deleting its files
+
+For full uninstall details, see FAQ item 3 below.
 
 ---
 
@@ -297,6 +318,14 @@ He doesn't know if his planet is still alive. He works anyway.
 ## FAQ & Troubleshooting
 
 </div>
+
+### Quick Troubleshooting Index
+
+- [SmartScreen warning](#1-windows-smartscreen-says-max-is-unrecognized-or-dangerous-is-it-a-virus)
+- [Antivirus false positive](#2-why-is-my-antivirus-flagging-max-as-suspicious)
+- [Complete uninstall](#3-how-do-i-completely-uninstallremove-max)
+- [Lag or slow movement](#5-he-seems-to-be-lagging-or-moving-slowly-how-do-i-fix-it)
+- [Multi-monitor behavior](#7-does-max-work-on-multiple-monitors)
 
 <details>
 <summary><b>1. Windows SmartScreen says MAX is "unrecognized" or "dangerous". Is it a virus?</b></summary>
