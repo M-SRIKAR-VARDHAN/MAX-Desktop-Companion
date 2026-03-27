@@ -44,7 +44,11 @@ Windows may show a blue popup   click <b>"More info"</b> → <b>"Run anyway"</b>
 This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
 </details>
 
-<br>
+</div>
+
+---
+
+<div align="center">
 
 ## Table of Contents
 - [He moves.](#he-moves)
