@@ -74,7 +74,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 <img src="assets/gravity.gif" width="700">
 </div>
 
-<p align="center">Type <code>gravity0</code>. Watch him float. The laws of physics are suggestions.</p>
+<p align="center">Think of it like a mario world but in our desktop all those are obstacles and walls that provide footing</p>
 
 ---
 
