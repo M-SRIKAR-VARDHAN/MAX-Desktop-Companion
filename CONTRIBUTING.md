@@ -18,6 +18,9 @@ Thanks for your interest in MAX!
 - Share on social media
 - Tell your friends
 
+## Fill the feeback form
+[Feed back from](https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform)
+
 ## Code Contributions
 MAX is currently maintained by a small team. Source code is in a private repository.
 If you're interested in contributing code, reach out to us via [Issues](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues).
