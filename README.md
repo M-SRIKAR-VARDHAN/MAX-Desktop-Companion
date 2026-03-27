@@ -309,12 +309,6 @@ He doesn't know if his planet is still alive. He works anyway.
 *Founder · Lead Developer · The reason MAX exists*<br>
 NIT Silchar
 
-<br>
-
-<a href="https://github.com/M-SRIKAR-VARDHAN">
-<img src="https://github-readme-stats.vercel.app/api?username=M-SRIKAR-VARDHAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=FFD700&text_color=ffffff" width="55%">
-</a>
-
 <br><br>
 
 *I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts — the ones I write at 3 AM when the world is quiet. He carries them now.*
