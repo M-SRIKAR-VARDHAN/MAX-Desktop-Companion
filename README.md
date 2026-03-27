@@ -300,22 +300,7 @@ He doesn't know if his planet is still alive. He works anyway.
 <br>
 
 <a href="https://github.com/M-SRIKAR-VARDHAN">
-<img src="https://github-readme-stats.vercel.app/api?username=M-SRIKAR-VARDHAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=FFD700&text_color=ffffff" width="49%">
-</a>
-<a href="https://github.com/M-SRIKAR-VARDHAN">
-<img src="https://streak-stats.demolab.com/?user=M-SRIKAR-VARDHAN&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=FFD700&currStreakLabel=ffffff" width="49%">
-</a>
-
-<br>
-
-<a href="https://github.com/M-SRIKAR-VARDHAN">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SRIKAR-VARDHAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%">
-</a>
-
-<br><br>
-
-<a href="https://github.com/M-SRIKAR-VARDHAN">
-<img src="https://github-profile-trophy.vercel.app/?username=M-SRIKAR-VARDHAN&theme=onestar&no-bg=true&no-frame=true&column=4&margin-w=15" width="60%">
+<img src="https://avatars.githubusercontent.com/u/121815832?v=4" width="150" style="border-radius: 50%;">
 </a>
 
 <br><br>
@@ -324,7 +309,17 @@ He doesn't know if his planet is still alive. He works anyway.
 *Founder · Lead Developer · The reason MAX exists*<br>
 NIT Silchar
 
-*I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts   the ones I write at 3 AM when the world is quiet. He carries them now.*
+<br>
+
+<a href="https://github.com/M-SRIKAR-VARDHAN">
+<img src="https://github-readme-stats.vercel.app/api?username=M-SRIKAR-VARDHAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=FFD700&text_color=ffffff" width="55%">
+</a>
+
+<br><br>
+
+*I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts — the ones I write at 3 AM when the world is quiet. He carries them now.*
+
+<br>
 
 <a href="https://github.com/M-SRIKAR-VARDHAN">GitHub</a> · <a href="https://www.linkedin.com/in/srikar-vardhan/">LinkedIn</a>
 
