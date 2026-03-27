@@ -278,6 +278,81 @@ He doesn't know if his planet is still alive. He works anyway.
 
 <div align="center">
 
+## FAQ & Troubleshooting
+
+</div>
+
+<details>
+<summary><b>1. Windows SmartScreen says MAX is "unrecognized" or "dangerous". Is it a virus?</b></summary>
+<br>
+No! We are students and cannot afford a $300+ code-signing certificate yet. Windows automatically flags any new `.exe` that hasn't been officially signed by a certified publisher. 
+<br><b>Fix:</b> Click <b>"More info"</b> → <b>"Run anyway"</b>. This happens only once. MAX is 100% offline, collects zero data, and can't phone home even if he wanted to.
+</details>
+
+<details>
+<summary><b>2. Why is my antivirus flagging MAX as suspicious?</b></summary>
+<br>
+MAX interacts directly with your operating system to do cool things (like fetch system health, kill frozen tasks, manage windows, and take screenshots). Some antiviruses incorrectly flag these "deep system hooks" as suspicious behavior. 
+<br><b>Fix:</b> You can safely add MAX to your antivirus exclusions/allow-list. We recommend checking our codebase if you are ever worried.
+</details>
+
+<details>
+<summary><b>3. How do I completely uninstall/remove MAX?</b></summary>
+<br>
+MAX is a portable/lightweight companion. To remove him permanently:
+1. Right-click MAX and select <b>Quit</b>.
+2. Delete the `MAX_Setup_v1.X.X.exe` file.
+3. (Optional) Delete his configuration/log folder located at `%APPDATA%\ProjectMAX`.
+</details>
+
+<details>
+<summary><b>4. Does MAX support Mac or Linux?</b></summary>
+<br>
+Right now, MAX is designed specifically for <b>Windows 10/11</b> because he uses specific Windows APIs to move your windows around and monitor your system. Porting him to macOS or Linux would require almost a complete rewrite of his core engine!
+</details>
+
+<details>
+<summary><b>5. He seems to be lagging or moving slowly. How do I fix it?</b></summary>
+<br>
+MAX runs best on machines with dedicated graphics. If you are running multiple heavy applications, his animation might occasionally stutter. 
+<br><b>Hot tip:</b> Make sure you have hardware acceleration enabled and aren't running intensive games in the background while playing with his physics.
+</details>
+
+<details>
+<summary><b>6. My desktop icons/windows are messing with his physics. What's happening?</b></summary>
+<br>
+MAX treats your windows and taskbar as physical objects he can stand on and interact with. If you have "Snap layouts" or specific UI scaling settings enabled in Windows, his hitboxes might be slightly offset. 
+<br><b>Fix:</b> Setting your Windows Display Scaling to 100% usually resolves any physics alignment issues.
+</details>
+
+<details>
+<summary><b>7. Does MAX work on multiple monitors?</b></summary>
+<br>
+Yes! MAX should be able to seamlessly walk across your extended displays. If he ever gets lost on a monitor you just disconnected, you can always summon him back using his `Ctrl+M` shortcut.
+</details>
+
+<details>
+<summary><b>8. Will MAX drain my laptop battery?</b></summary>
+<br>
+MAX is designed to be lightweight. When he's actively flipping your windows and tracking your cursor, he uses a tiny bit of GPU. However, when left alone, he enters a low-power idle state where his resource consumption is negligible.
+</details>
+
+<details>
+<summary><b>9. Why does MAX disappear when I play games or watch Netflix?</b></summary>
+<br>
+MAX cannot draw himself over "Exclusive Fullscreen" applications. Because these apps communicate directly with your graphics card to prioritize performance, MAX temporarily steps aside. If you still want him around while gaming, switch your game to "Borderless Windowed" mode.
+</details>
+
+<details>
+<summary><b>10. Can I pause him when I'm sharing my screen for work/meetings?</b></summary>
+<br>
+Absolutely. You don't need to quit the app entirely. Just use the <b>Focus Mode</b> from his right-click menu and MAX will minimize distractions and stop wandering onto your spreadsheets.
+</details>
+
+---
+
+<div align="center">
+
 ## Shortcuts
 
 | Action | How |
