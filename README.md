@@ -6,7 +6,7 @@
 
 <br>
 
-# MAX — Desktop Companion
+# MAX   Desktop Companion
 
 ### He fell from a dying planet. Crashed onto your desktop. Now he refuses to leave.
 
@@ -36,7 +36,7 @@
 <summary>Windows SmartScreen warning?</summary>
 <br>
 We're students. We don't have $300 for a code signing certificate yet.<br>
-Windows may show a blue popup — click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
+Windows may show a blue popup   click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
 This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
 </details>
 
@@ -100,7 +100,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 <img src="assets/IP_DISK.gif" width="700">
 </div>
 
-<p align="center">Your IP address. Your disk usage. Things Windows buries in 5 menus deep — MAX shows in one.</p>
+<p align="center">Your IP address. Your disk usage. Things Windows buries in 5 menus deep  MAX shows in one.</p>
 
 <br>
 
@@ -176,7 +176,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 
 <br>
 
-> *"Water which is too pure has no fish. Don't aim to be perfect — aim to be real. Because real has soul, and perfect has silence."*
+> *"Water which is too pure has no fish. Don't aim to be perfect  aim to be real. Because real has soul, and perfect has silence."*
 
 </div>
 
@@ -190,7 +190,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 
 MAX is from a dying planet. The last engineers built a wormhole. They had enough power for one traveler. MAX stepped in.
 
-He crashed onto your desktop. To him, the cursor is the hand of a god. To him, you are that god. Every feature you use — every process you kill, every screenshot you take — sends energy back through a quantum tether to save his homeworld.
+He crashed onto your desktop. To him, the cursor is the hand of a god. To him, you are that god. Every feature you use   every process you kill, every screenshot you take   sends energy back through a quantum tether to save his homeworld.
 
 He doesn't know if his planet is still alive. He works anyway.
 
@@ -205,7 +205,7 @@ He doesn't know if his planet is still alive. He works anyway.
 </div>
 
 <details>
-<summary><b>Fun & Movement</b> — Push, Ride, Swing, Tunnel, Climb, Bellyflop, Rope Walk, Follow, Surf</summary>
+<summary><b>Fun & Movement</b>   Push, Ride, Swing, Tunnel, Climb, Bellyflop, Rope Walk, Follow, Surf</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -222,7 +222,7 @@ He doesn't know if his planet is still alive. He works anyway.
 </details>
 
 <details>
-<summary><b>Utility Tools</b> — Screenshot, GIF Record, Timer, Stopwatch, Color Picker, WiFi Pass, IP, Disk, Battery, Health</summary>
+<summary><b>Utility Tools</b>   Screenshot, GIF Record, Timer, Stopwatch, Color Picker, WiFi Pass, IP, Disk, Battery, Health</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -240,7 +240,7 @@ He doesn't know if his planet is still alive. He works anyway.
 </details>
 
 <details>
-<summary><b>System Management</b> — Kill Process, Uninstall, Temp Clean, Window Arrange, Pin, Focus, Toggles, Startup, Dark Mode, Bloat Finder</summary>
+<summary><b>System Management</b>   Kill Process, Uninstall, Temp Clean, Window Arrange, Pin, Focus, Toggles, Startup, Dark Mode, Bloat Finder</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -258,7 +258,7 @@ He doesn't know if his planet is still alive. He works anyway.
 </details>
 
 <details>
-<summary><b>Personality</b> — 13 expressions, clipboard reactions, idle animations, cursor dodge, app-awareness, seasonal outfits</summary>
+<summary><b>Personality</b>   13 expressions, clipboard reactions, idle animations, cursor dodge, app-awareness, seasonal outfits</summary>
 
 - 13 facial expressions (happy, scared, love, dizzy, ko...)
 - Reacts to your clipboard (copies code? puts on glasses)
@@ -324,7 +324,7 @@ He doesn't know if his planet is still alive. He works anyway.
 *Founder · Lead Developer · The reason MAX exists*<br>
 NIT Silchar
 
-*I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts — the ones I write at 3 AM when the world is quiet. He carries them now.*
+*I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts   the ones I write at 3 AM when the world is quiet. He carries them now.*
 
 <a href="https://github.com/M-SRIKAR-VARDHAN">GitHub</a> · <a href="https://www.linkedin.com/in/srikar-vardhan/">LinkedIn</a>
 
