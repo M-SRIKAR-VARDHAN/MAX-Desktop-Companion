@@ -44,6 +44,18 @@ Windows may show a blue popup   click <b>"More info"</b> → <b>"Run anyway"</b>
 This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
 </details>
 
+<br>
+
+## Table of Contents
+- [He moves.](#he-moves)
+- [He's useful.](#hes-useful)
+- [He has secrets.](#he-has-secrets)
+- [He thinks.](#he-thinks)
+- [The Lore](#the-lore)
+- [45+ features. One right-click.](#45-features-one-right-click)
+- [FAQ & Troubleshooting](#faq--troubleshooting)
+- [Shortcuts](#shortcuts)
+
 </div>
 
 ---
