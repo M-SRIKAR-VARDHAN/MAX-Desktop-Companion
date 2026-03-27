@@ -1,2 +1,5 @@
-# Nothing to ignore — this is a distribution repo
-# Source code is in a separate private repository
+# Distribution repo — binaries go in Releases, not in the repo
+*.exe
+*.zip
+__pycache__/
+*.pyc
