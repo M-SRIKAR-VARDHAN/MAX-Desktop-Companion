@@ -132,20 +132,34 @@ Download. Run. Done.
 
 <div align="center">
 
-### [![Download MAX](https://img.shields.io/badge/DOWNLOAD-MAX.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest)
+### [![Download MAX](https://img.shields.io/badge/DOWNLOAD-MAX__Setup__v1.0.0.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest)
 
-**54MB · Windows 10/11 · Portable (no setup wizard) · No Python needed**
+**56MB · Windows 10/11 · Installer included · No Python needed**
 
 </div>
 
 | Step | Action |
 |------|--------|
-| 1 | Download `MAX.exe` from the button above |
-| 2 | Double-click it — MAX drops onto your taskbar |
-| 3 | **Right-click MAX** to open the menu |
-| 4 | That's it. No setup. No account. No internet. |
+| 1 | Download `MAX_Setup_v1.0.0.exe` from the button above |
+| 2 | Double-click → Windows may show a SmartScreen popup (see below) |
+| 3 | Install → MAX drops onto your desktop |
+| 4 | **Right-click MAX** to open the menu |
 
-> To uninstall: just delete the file. MAX leaves no traces.
+> To uninstall: Settings → Apps → MAX Desktop Companion → Uninstall
+
+<details>
+<summary><b>Windows SmartScreen warning? (click to expand)</b></summary>
+<br>
+
+MAX is not code-signed yet (certificates cost $300/year). Windows may show a blue popup:
+
+1. **"Windows protected your PC"** appears
+2. Click **"More info"**
+3. Click **"Run anyway"**
+
+This only happens once. MAX is 100% open-source, offline, and safe. [View the source code](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion) to verify.
+
+</details>
 
 ---
 
