@@ -15,6 +15,7 @@ Thanks for your interest in MAX!
 
 ### Spread the Word
 - Star this repo
+- Visit and share our [Website](https://max-desktop-companion.vercel.app/)
 - Share on social media
 - Tell your friends
 
