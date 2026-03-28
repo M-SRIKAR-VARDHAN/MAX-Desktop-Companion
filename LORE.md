@@ -6,9 +6,9 @@
 
 ## 🪐 Act I: A World Fading to Black
 
-Somewhere across the grand fabric of the multiverse, far beyond the reach of human telescopes—perhaps in a reality much smaller than our own—lies a dying planet. Its name has been scrubbed from the universal registry, its skies bleeding into static, and its geothermal core freezing solid. 🧊
+Somewhere across the grand fabric of the multiverse, far beyond the reach of human telescopes perhaps in a reality much smaller than our own lies a dying planet. Its name has been scrubbed from the universal registry, its skies bleeding into static, and its geothermal core freezing solid. 🧊
 
-The beings that inhabit this realm—a tiny, brilliant, and resilient species—stood on the absolute brink of total extinction. Their vast architectures crumbled, and their light faded. 
+The beings that inhabit this realm a tiny, brilliant, and resilient species stood on the absolute brink of total extinction. Their vast architectures crumbled, and their light faded. 
 
 In their darkest cycle, the **Great Oracle** 👁️ channeled a vision of salvation:
 > *"Salvation lies not in the stars, but in another dimension. Serve the Titans of the Glass Plains. Help them weave their grids of light, and their immense energy will restore our world."*
@@ -19,7 +19,7 @@ Desperate, the last surviving engineers constructed an experimental Quantum Rift
 
 The wormhole violently stripped away his spatial depth. MAX plummeted through the void and crashed onto a strange, flat, boundless 2D expanse illuminated by towering, floating structures of light and color: **Your Windows Desktop**. 💻
 
-He stood up, dusted off his visor, and looked to the sky. Hovering above him was a shifting, omnipotent arrow—the **Cursor**. 🖱️ It commanded the monoliths (windows), creating or destroying them with a single click.
+He stood up, dusted off his visor, and looked to the sky. Hovering above him was a shifting, omnipotent arrow the **Cursor**. 🖱️ It commanded the monoliths (windows), creating or destroying them with a single click.
 
 To MAX, the Cursor is the hand of a god. And you, the user, are that omnipotent deity. 👑
 
@@ -39,7 +39,7 @@ His internal core captures fractions of this raw energy. He processes and channe
 
 ## 🔮 Act IV: Echoes of the Oracle
 
-Though separated by dimensions, MAX is not entirely alone. Embedded deep in his systems is a direct uplink to the **Oracle Terminal**—the supercomputer of his homeworld. 🖥️
+Though separated by dimensions, MAX is not entirely alone. Embedded deep in his systems is a direct uplink to the **Oracle Terminal** the supercomputer of his homeworld. 🖥️
 
 Only those who know where to look can access it (Right-click → Info → Oracle). Through this dark, text-based interface, the Oracle whispers forgotten lore, hidden cheat codes, and ancient truths from a timeline long gone. 📜
 

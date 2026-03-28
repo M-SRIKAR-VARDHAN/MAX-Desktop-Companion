@@ -532,8 +532,7 @@ NIT Silchar
 <br>
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=M-SRIKAR-VARDHAN/MAX-Desktop-Companion&type=Date)](https://star-history.com/#M-SRIKAR-VARDHAN/MAX-Desktop-Companion&Date)
+[![Star History Chart](https://api.star-history.com/image?repos=M-SRIKAR-VARDHAN/MAX-Desktop-Companion&type=Date&theme=light)](https://star-history.com/#M-SRIKAR-VARDHAN/MAX-Desktop-Companion&Date)
 
 <br>
 
