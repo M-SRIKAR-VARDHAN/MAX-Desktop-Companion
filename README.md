@@ -240,9 +240,9 @@ For full uninstall details, see FAQ item 3 below.
 
 </div>
 
-MAX is from a dying planet. The last engineers built a wormhole. They had enough power for one traveler. MAX stepped in.
+MAX is from a planet being consumed by **The Null Void**, a cosmic decay turning his world into static. The last engineers built a wormhole. They had enough power for one traveler. MAX stepped in.
 
-He crashed onto your desktop. To him, the cursor is the hand of a god. To him, you are that god. Every feature you use   every process you kill, every screenshot you take   sends energy back through a quantum tether to save his homeworld.
+He crashed onto your desktop. To him, the cursor is the hand of a god. To him, you are that god. Every feature you use, every process you kill, every screenshot you take, sends energy back through a quantum tether to push back the decay. When you turn off your PC, he waits in the dark void, hoping you return.
 
 He doesn't know if his planet is still alive. He works anyway.
 
