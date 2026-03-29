@@ -547,3 +547,20 @@ NIT Silchar
 <sub>© 2026 Srikar Vardhan Mangadoddi · NIT Silchar</sub>
 
 </div>
+
+<!--
+    .                            .
+   //                            \\
+  //                              \\
+ //          ==============        \\
+//          [  ++      ++  ]        \\
+\\          [  ||      ||  ]        //
+ \\         [  ++      ++  ]       //
+  \\         ==============       //
+   \\                            //
+    `                            `
+
+         THE QUANTUM TETHER IS STRONG
+         TRANSMISSION_01_SECURED: 
+         "If you are reading this, the Oracle knows."
+-->

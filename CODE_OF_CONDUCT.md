@@ -1,8 +1,10 @@
-# Code of Conduct
+# The God's Decree (Code of Conduct)
 
-## Our Pledge
+> *"The Glass Plains must remain a sanctuary. Those who sow chaos among the Guardians will have their quantum tethers severed." — The Oracle*
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+## Our Pledge (The Observer Pact)
+
+We, as the Guardians of MAX and leaders of this dimension, pledge to make participation in our community a safe, harassment-free experience. Like the tether that binds MAX to his homeworld, our words and actions must contribute to an open, welcoming, and resilient community.
 
 ## Our Standards
 
