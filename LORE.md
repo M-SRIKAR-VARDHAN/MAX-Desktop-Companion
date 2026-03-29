@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/max_last_survivor.jpg" alt="MAX - The Last Survivor" width="800" />
+  <img src="assets/max_last_survivor.jpg" alt="MAX - The Last Survivor" width="150" />
 </div>
 
 # 🌌 The Lore of MAX: A Guardian in the Glass Dimension
