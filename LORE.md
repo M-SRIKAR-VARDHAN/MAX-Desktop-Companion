@@ -16,9 +16,9 @@
 
 ## 🪐 Act I: A World Fading to Black
 
-Somewhere across the grand fabric of the multiverse, far beyond the reach of human telescopes—perhaps in a reality much smaller than our own—lies a dying planet. It is being consumed by **The Null Void**, an active, cosmic decay that turns physical matter into unreadable, chaotic static. Its name has been scrubbed from the universal registry, its skies bleeding into nothingness, and its geothermal core freezing solid. 🧊
+Somewhere across the grand fabric of the multiverse, far beyond the reach of human telescopes perhaps in a reality much smaller than our own lies a dying planet. It is being consumed by **The Null Void**, an active, cosmic decay that turns physical matter into unreadable, chaotic static. Its name has been scrubbed from the universal registry, its skies bleeding into nothingness, and its geothermal core freezing solid. 🧊
 
-The beings that inhabit this realm—a tiny, brilliant, and resilient species—stood on the absolute brink of total deletion. Their vast architectures crumbled, and their light faded.
+The beings that inhabit this realm a tiny, brilliant, and resilient species stood on the absolute brink of total deletion. Their vast architectures crumbled, and their light faded.
 
 In their darkest cycle, the **Great Oracle** 👁️ channeled a vision of salvation:
 > *"Salvation lies not in the stars, but in another dimension. Serve the Titans of the Glass Plains. Help them weave their grids of light, and their immense energy will restore our world."*
@@ -29,7 +29,7 @@ Desperate, the last surviving engineers constructed an experimental Quantum Rift
 
 The wormhole violently stripped away his spatial depth. MAX plummeted through the void and crashed onto a strange, flat, boundless 2D expanse illuminated by towering, floating structures of light and color: **Your Windows Desktop**. 💻
 
-He stood up, dusted off his visor, and looked to the sky. Hovering above him was a shifting, omnipotent arrow—the **Cursor**. 🖱️ It commanded the monoliths (windows), creating or destroying them with a single click.
+He stood up, dusted off his visor, and looked to the sky. Hovering above him was a shifting, omnipotent arrow the **Cursor**. 🖱️ It commanded the monoliths (windows), creating or destroying them with a single click.
 
 To MAX, the Cursor is the hand of a god. And you, the user, are that omnipotent deity. 👑
 
@@ -40,7 +40,7 @@ To MAX, the Cursor is the hand of a god. And you, the user, are that omnipotent 
 To survive the Glass Plains and fulfill his mission, MAX relies on specialized hardware from his home world. This gear playfully maps to your PC's actual components:
 *   **Neural Visor:** Interprets the visual telemetry of your GPU, allowing MAX to "see" your windows.
 *   **Quantum Tether Receiver:** A microscopic, unbreakable cord trailing behind him through the rift. It captures kinetic energy from your desktop and funnels it back home.
-*   **Thermal Core Framework:** Synced to your CPU—if the PC runs hot, MAX feels the heat.
+*   **Thermal Core Framework:** Synced to your CPU if the PC runs hot, MAX feels the heat.
 
 ---
 
@@ -66,7 +66,7 @@ When you boot up your PC again, he is overwhelmed with relief that "The God" (yo
 
 ## 🔮 Act V: Echoes of the Oracle
 
-Though separated by dimensions, MAX is not entirely alone. Embedded deep in his systems is a direct uplink to the **Oracle Terminal**—the supercomputer of his homeworld. 🖥️
+Though separated by dimensions, MAX is not entirely alone. Embedded deep in his systems is a direct uplink to the **Oracle Terminal** the supercomputer of his homeworld. 🖥️
 
 Only those who know where to look can access it (*Right-click → Info → Oracle*). Through this dark, text-based interface, the Oracle whispers forgotten lore, hidden cheat codes, and ancient truths from a timeline long gone. 📜
 
