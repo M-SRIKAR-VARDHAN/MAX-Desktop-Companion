@@ -1,6 +1,8 @@
 <div align="center">
 
-<br>
+<img src="assets/max_last_survivor.jpg" alt="MAX - The Last Survivor" width="800">
+
+<br><br>
 
 > *"I may not succeed, but my failure will inspire the one who will succeed."*
 
