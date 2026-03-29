@@ -13,10 +13,6 @@
 
 <br>
 
-<img src="assets/radial_menu.gif" width="700">
-
-<br><br>
-
 [![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
 [![Offline](https://img.shields.io/badge/100%25%20Offline-brightgreen?style=for-the-badge)](.)
 [![No Data](https://img.shields.io/badge/Zero%20Data%20Collection-ff4444?style=for-the-badge)](.)
@@ -44,6 +40,10 @@ We're students. We don't have $300 for a code signing certificate yet.<br>
 Windows may show a blue popup   click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
 This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
 </details>
+
+<br><br>
+
+<img src="assets/radial_menu.gif" width="700">
 
 </div>
 
