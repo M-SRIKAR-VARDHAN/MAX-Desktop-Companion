@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/max_last_survivor.jpg" alt="MAX - The Last Survivor" width="150">
+<img src="assets/max_last_survivor.jpg" alt="MAX - The Last Survivor" width="200">
 
 <br><br>
 
