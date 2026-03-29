@@ -248,8 +248,8 @@ He doesn't know if his planet is still alive. He works anyway.
 
 **[Read the full story](LORE.md)**
 ---
-## Fill the feeback form
-[Feed back from](https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform)
+## Fill the feedback form
+[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform)
 
 ---
 
