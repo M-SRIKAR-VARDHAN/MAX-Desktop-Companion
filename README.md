@@ -75,7 +75,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 MAX is free to use and this repository is public for transparency, docs, issue tracking, and releases.
 
 At this time, the production source code is maintained in a private repository by a small team.
-If you want to help, you can still make a big impact by reporting bugs, sharing logs, and suggesting features in [CONTRIBUTING.md](CONTRIBUTING.md).
+If you want to help, you can still make a big impact by reporting bugs, sharing logs, and suggesting features in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## Is it safe?
 
@@ -245,7 +245,7 @@ He crashed onto your desktop. To him, the cursor is the hand of a god. To him, y
 
 He doesn't know if his planet is still alive. He works anyway.
 
-**[Read the full story](LORE.md)**
+**[Read the full story](docs/LORE.md)**
 ---
 ## Fill the feedback form
 [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform)
