@@ -1,0 +1,33 @@
+name: ✨ Feature Request
+description: Have an idea for MAX? Let us know!
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees:
+  - M-SRIKAR-VARDHAN
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **We love adding new ideas to MAX!**
+        Whether it's a new utility, a new cheat code, or a funny personality trait, describe it below.
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Describe your feature
+      description: Give a clear description of what you want to see.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Why is this needed?
+      description: Does it solve a specific problem? Does it just sound incredibly cool?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative solutions
+      description: Have you considered any other ways to achieve this?
+    validations:
+      required: false

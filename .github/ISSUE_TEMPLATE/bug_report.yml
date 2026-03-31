@@ -1,0 +1,76 @@
+name: 🐛 Bug Report
+description: Something not working? Help us fix it!
+title: "[BUG] "
+labels: ["bug"]
+assignees:
+  - M-SRIKAR-VARDHAN
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for reporting a bug!** 
+        Please ensure you attach your `max.log` file from `%APPDATA%\ProjectMAX` as it is critical for debugging.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe what went wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What did you expect?
+      description: What should have happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: 1. ... 2. ... 3. ...
+    validations:
+      required: true
+  - type: dropdown
+    id: windows-version
+    attributes:
+      label: Windows Version
+      options:
+        - Windows 11
+        - Windows 10
+    validations:
+      required: true
+  - type: input
+    id: max-version
+    attributes:
+      label: MAX version
+      description: e.g. v1.0.0
+    validations:
+      required: true
+  - type: input
+    id: screen-resolution
+    attributes:
+      label: Screen resolution
+      description: e.g. 1920x1080 (optional)
+    validations:
+      required: false
+  - type: textarea
+    id: log-file
+    attributes:
+      label: Log File (IMPORTANT!)
+      description: |
+        1. Press `Win + R`
+        2. Type `%APPDATA%\ProjectMAX` and press Enter
+        3. Find `max.log`
+        4. Paste the last 50 lines or drag/drop the file here.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: I have attached my log file mentioned above
+          required: true
+        - label: I have verified this isn't already reported in the Issues tab
+          required: true

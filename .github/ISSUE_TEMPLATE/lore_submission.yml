@@ -1,0 +1,26 @@
+name: 🌌 Lore & Secrets Suggestion
+description: Got a cool idea for a hidden terminal secret or deep lore?
+title: "[LORE] "
+labels: ["lore"]
+assignees:
+  - M-SRIKAR-VARDHAN
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **"The Oracle speaks..."**
+        Submit your suggestions for hidden messages, cheat codes, and Null Void lore.
+  - type: textarea
+    id: lore-idea
+    attributes:
+      label: What is your secret/lore idea?
+      description: Describe the cheat code, hidden phrase, or storyline snippet.
+    validations:
+      required: true
+  - type: textarea
+    id: trigger
+    attributes:
+      label: How is it triggered?
+      description: e.g. "Typing `matrix`" or "Right-clicking 10 times fast"
+    validations:
+      required: true
