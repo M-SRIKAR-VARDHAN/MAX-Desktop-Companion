@@ -9,19 +9,19 @@
     
 ### He fell from a dying planet. Crashed onto your desktop. Now he refuses to leave.
 
-[**🌐 Visit the Official Website**](https://max-desktop-companion.vercel.app/)
+<a href="https://max-desktop-companion.vercel.app/" target="_blank" rel="noopener noreferrer">**🌐 Visit the Official Website**</a>
 
 <br>
 
-[![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases" target="_blank" rel="noopener noreferrer">![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
 [![Offline](https://img.shields.io/badge/100%25%20Offline-brightgreen?style=for-the-badge)](.)
 [![No Data](https://img.shields.io/badge/Zero%20Data%20Collection-ff4444?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/Freeware-FFD700?style=for-the-badge)](LICENSE)
 
-[![Stars](https://img.shields.io/github/stars/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/total?style=social&logo=github&label=Downloads)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
-[![Forks](https://img.shields.io/github/forks/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/commits)
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/stargazers" target="_blank" rel="noopener noreferrer">![Stars](https://img.shields.io/github/stars/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)</a>
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases" target="_blank" rel="noopener noreferrer">![Downloads](https://img.shields.io/github/downloads/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/total?style=social&logo=github&label=Downloads)</a>
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/network/members" target="_blank" rel="noopener noreferrer">![Forks](https://img.shields.io/github/forks/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)</a>
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/commits" target="_blank" rel="noopener noreferrer">![Last Commit](https://img.shields.io/github/last-commit/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)</a>
 
 <br><br>
 
@@ -86,7 +86,7 @@ If you want to help, you can still make a big impact by reporting bugs, sharing 
 
 For full uninstall details, see FAQ item 3 below.
 
-For complete details on our data practices, please review the [Privacy Policy](https://max-desktop-companion.vercel.app/privacy).
+- For complete details on our data practices, please review the <a href="https://max-desktop-companion.vercel.app/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
 
 ## What MAX Never Does
 
@@ -250,7 +250,7 @@ He doesn't know if his planet is still alive. He works anyway.
 **[Read the full story](docs/LORE.md)**
 ---
 ## Fill the feedback form
-[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform" target="_blank" rel="noopener noreferrer">Feedback form</a>
 
 ---
 
@@ -446,7 +446,7 @@ Absolutely. You don't need to quit the app entirely. Just use the <b>Focus Mode<
 
 <br>
 
-<a href="https://github.com/M-SRIKAR-VARDHAN">
+<a href="https://github.com/M-SRIKAR-VARDHAN" target="_blank" rel="noopener noreferrer">
 <img src="https://avatars.githubusercontent.com/u/121815832?v=4" width="150" style="border-radius: 50%;">
 </a>
 
@@ -462,7 +462,7 @@ NIT Silchar
 
 <br>
 
-<a href="https://github.com/M-SRIKAR-VARDHAN">GitHub</a> · <a href="https://www.linkedin.com/in/srikar-vardhan/">LinkedIn</a>
+<a href="https://github.com/M-SRIKAR-VARDHAN" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://www.linkedin.com/in/srikar-vardhan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 </div>
 
@@ -480,19 +480,19 @@ NIT Silchar
 <h3>Batchu Mani Kiran</h3>
 <sub>Developer & Engineer</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </td>
 <td align="center" width="33%">
 <b>Chukka Abhinay</b><br>
 <sub>Art · Design · Creative Direction</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/chukka-abhinay-164056258/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/chukka-abhinay-164056258/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </td>
 <td align="center" width="33%">
 <b>Sangam Sai Anish</b><br>
 <sub>Ideation · Strategy · Marketing</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/sangamsaianish/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/sangamsaianish/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@ NIT Silchar
 <b>K N V Hemanth Sai Kumar</b><br>
 <sub>Developer</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/hemanth-sai-kumar-knv-a62101258/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/hemanth-sai-kumar-knv-a62101258/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </td>
 <td align="center" width="33%"></td>
 <td align="center" width="33%"></td>
@@ -526,14 +526,14 @@ NIT Silchar
 
 <br>
 
-[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%20Now%20he%20lives%20here.%20%F0%9F%9A%80&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
-[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=A%20desktop%20companion%20that%20walks%20on%20your%20windows%2C%20pushes%20them%20around%2C%20and%20thinks%20you%27re%20a%20god)
-[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion)
+<a href="https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%20Now%20he%20lives%20here.%20%F0%9F%9A%80&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion" target="_blank" rel="noopener noreferrer">![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=A%20desktop%20companion%20that%20walks%20on%20your%20windows%2C%20pushes%20them%20around%2C%20and%20thinks%20you%27re%20a%20god" target="_blank" rel="noopener noreferrer">![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion" target="_blank" rel="noopener noreferrer">![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <br>
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/image?repos=M-SRIKAR-VARDHAN/MAX-Desktop-Companion&type=Date&theme=light)](https://star-history.com/#M-SRIKAR-VARDHAN/MAX-Desktop-Companion&Date)
+<a href="https://star-history.com/#M-SRIKAR-VARDHAN/MAX-Desktop-Companion&Date" target="_blank" rel="noopener noreferrer">![Star History Chart](https://api.star-history.com/image?repos=M-SRIKAR-VARDHAN/MAX-Desktop-Companion&type=Date&theme=light)</a>
 
 <br>
 
@@ -543,7 +543,7 @@ NIT Silchar
 
 <br>
 
-<sub>Made in India. No data collected. 100% offline. Free forever. | [Privacy Policy](https://max-desktop-companion.vercel.app/privacy)</sub>
+<sub>Made in India. No data collected. 100% offline. Free forever. | <a href="https://max-desktop-companion.vercel.app/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></sub>
 
 <sub>© 2026 Srikar Vardhan Mangadoddi · NIT Silchar</sub>
 
