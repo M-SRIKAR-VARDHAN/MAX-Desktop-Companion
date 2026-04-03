@@ -20,3 +20,5 @@ We will respond within 48 hours and work with you to address the issue.
 - MAX does NOT modify system files
 - MAX does NOT require admin privileges (some features work better with admin)
 - MAX stores settings locally in `%APPDATA%\ProjectMAX\` — nowhere else
+
+For full details on our data handling practices, please read our [Privacy Policy](https://max-desktop-companion.vercel.app/privacy).

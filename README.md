@@ -86,6 +86,8 @@ If you want to help, you can still make a big impact by reporting bugs, sharing 
 
 For full uninstall details, see FAQ item 3 below.
 
+For complete details on our data practices, please review the [Privacy Policy](https://max-desktop-companion.vercel.app/privacy).
+
 ## What MAX Never Does
 
 - No cloud sync of your files or activity
@@ -541,7 +543,7 @@ NIT Silchar
 
 <br>
 
-<sub>Made in India. No data collected. 100% offline. Free forever.</sub>
+<sub>Made in India. No data collected. 100% offline. Free forever. | [Privacy Policy](https://max-desktop-companion.vercel.app/privacy)</sub>
 
 <sub>© 2026 Srikar Vardhan Mangadoddi · NIT Silchar</sub>
 
