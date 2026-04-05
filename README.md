@@ -48,7 +48,7 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 
 <br><br>
 
-https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/raw/main/assets/max-v2-demo.mp4
+https://github.com/user-attachments/assets/ae6d9f81-f254-41ba-97e6-5ff9f020ace3
 
 <br>
 
