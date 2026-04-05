@@ -9,13 +9,17 @@
     
 ### He fell from a dying planet. Crashed onto your desktop. Now he refuses to leave.
 
+**v2.0 — 71 features. 21 visual effects. AI Chat. Screen OCR. Complete rebuild.**
+
 [**🌐 Visit the Official Website**](https://max-desktop-companion.vercel.app/)
 
 <br>
 
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-In%20Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
 [![Offline](https://img.shields.io/badge/100%25%20Offline-brightgreen?style=for-the-badge)](.)
 [![No Data](https://img.shields.io/badge/Zero%20Data%20Collection-ff4444?style=for-the-badge)](.)
+[![Made in India](https://img.shields.io/badge/Made%20in%20India-FF9933?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/Freeware-FFD700?style=for-the-badge)](LICENSE)
 
 [![Stars](https://img.shields.io/github/stars/M-SRIKAR-VARDHAN/MAX-Desktop-Companion?style=social)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/stargazers)
@@ -25,19 +29,20 @@
 
 <br><br>
 
-<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/download/v1.0.0/MAX_Setup_v1.0.0.exe" align="center">
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest" align="center">
   <img src="assets/download-button-animated.svg" width="450" alt="Download MAX Desktop Companion">
 </a>
 
 <br><br>
 
-**56MB · One-click install · No Python needed**
+**~80MB · One-click install · No Python needed**
 
 <details>
 <summary>Windows SmartScreen warning?</summary>
 <br>
 We're students. We don't have $300 for a code signing certificate yet.<br>
-Windows may show a blue popup   click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
+MAX has been submitted to the <b>Microsoft Store</b> for official certification.<br>
+For now: click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
 This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
 </details>
 
@@ -46,6 +51,29 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 <img src="assets/radial_menu.gif" width="700">
 
 </div>
+
+---
+
+<div align="center">
+
+## What's New in v2.0
+
+</div>
+
+> Complete engine rebuild. New architecture. New everything.
+
+| | What's new |
+|---|---------|
+| **21 Visual Effects** | Shatter, flood, lightning, matrix rain, aurora, black holes, constellation, fire trails, snow globe, gravity flip, bubbles, garden, fireflies, earthquake, boids, portal, and more |
+| **AI Chat** | Talk to MAX using your own API key — Gemini free tier / OpenAI / Claude |
+| **Screen OCR** | Select any region, extract text instantly via Windows WinRT |
+| **Dev Tools** | JSON formatter, hash generator (MD5/SHA256), Base64 encode/decode, QR code generator |
+| **System Monitor** | Live CPU / RAM / Disk / Battery bars with auto-refresh |
+| **App Usage Tracker** | See which apps you spend the most time in |
+| **Scientific Calculator** | Full numpad, trig functions, live preview, calculation history |
+| **Quick Notes** | Tabbed sticky notes with auto-save |
+| **Region Screenshot** | Snipping-tool style — select an area to capture |
+| **New Engine** | Custom physics, budget-based frame scheduler, cached rendering, 60fps |
 
 ---
 
@@ -60,10 +88,8 @@ This happens once. MAX is 100% offline. He can't phone home even if he wanted to
 - [He has secrets.](#he-has-secrets)
 - [He thinks.](#he-thinks)
 - [The Lore](#the-lore)
-- [45+ features. One right-click.](#45-features-one-right-click)
+- [71 features. One right-click.](#71-features-one-right-click)
 - [FAQ & Troubleshooting](#faq--troubleshooting)
-- [Failure Recovery Quick Card](#failure-recovery-quick-card)
-- [Quick Troubleshooting Index](#quick-troubleshooting-index)
 - [Shortcuts](#shortcuts)
 
 </div>
@@ -83,6 +109,7 @@ If you want to help, you can still make a big impact by reporting bugs, sharing 
 - No telemetry or analytics collection from MAX itself
 - Creates local app data/log files under `%APPDATA%\ProjectMAX`
 - Can be removed anytime by quitting MAX and deleting its files
+- Submitted to **Microsoft Store** for official certification
 
 For full uninstall details, see FAQ item 3 below.
 
@@ -127,7 +154,7 @@ For complete details on our data practices, please review the [Privacy Policy](h
 <img src="assets/gravity.gif" width="700">
 </div>
 
-<p align="center">Think of it like a mario world but in our desktop all those are obstacles and walls that provide footing</p>
+<p align="center">Think of it like a Mario world but on your desktop — windows are platforms, taskbar is the ground.</p>
 
 ---
 
@@ -153,7 +180,7 @@ For complete details on our data practices, please review the [Privacy Policy](h
 <img src="assets/IP_DISK.gif" width="700">
 </div>
 
-<p align="center">Your IP address. Your disk usage. Things Windows buries in 5 menus deep  MAX shows in one.</p>
+<p align="center">Your IP address. Your disk usage. Things Windows buries in 5 menus deep — MAX shows in one.</p>
 
 <br>
 
@@ -229,7 +256,7 @@ For complete details on our data practices, please review the [Privacy Policy](h
 
 <br>
 
-> *"Water which is too pure has no fish. Don't aim to be perfect  aim to be real. Because real has soul, and perfect has silence."*
+> *"Water which is too pure has no fish. Don't aim to be perfect — aim to be real. Because real has soul, and perfect has silence."*
 
 </div>
 
@@ -248,7 +275,9 @@ He crashed onto your desktop. To him, the cursor is the hand of a god. To him, y
 He doesn't know if his planet is still alive. He works anyway.
 
 **[Read the full story](docs/LORE.md)**
+
 ---
+
 ## Fill the feedback form
 [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfz3zgZfyU6-isEQdc4nW_WLk6RCKqru4ephccoUW5HTFeehg/viewform)
 
@@ -256,75 +285,163 @@ He doesn't know if his planet is still alive. He works anyway.
 
 <div align="center">
 
-## 45+ features. One right-click.
+## 71 features. One right-click.
 
 </div>
 
 <details>
-<summary><b>Fun & Movement</b>   Push, Ride, Swing, Tunnel, Climb, Bellyflop, Rope Walk, Follow, Surf</summary>
+<summary><b>Visual Effects (21)</b> — Shatter, Flood, Lightning, Matrix Rain, Aurora, Black Holes, and more</summary>
 
-| Feature | What it does |
-|---------|-------------|
-| Push | Push windows off your screen |
-| Ride | Jump onto your cursor and ride it |
-| Swing | Swing from window edges like a pendulum |
-| Tunnel | Dig through windows and exit on another |
-| Climb | Climb up window edges |
-| Bellyflop | Launch into the air and splat down |
-| Rope Walk | Tightrope between windows |
-| Follow | MAX follows your cursor everywhere |
-| Surf | Surf on moving windows |
-
-</details>
-
-<details>
-<summary><b>Utility Tools</b>   Screenshot, GIF Record, Timer, Stopwatch, Color Picker, WiFi Pass, IP, Disk, Battery, Health</summary>
-
-| Feature | What it does |
-|---------|-------------|
-| Screenshot | Capture screen with one click |
-| GIF Record | Record screen as GIF |
-| Timer | Countdown timer with alarm |
-| Stopwatch | Pause/resume stopwatch |
-| Color Picker | Pick any color from screen |
-| WiFi Password | Show saved WiFi password instantly |
-| IP Info | Local + public IP |
-| Disk Info | All drives, usage, free space |
-| Battery | Status, health, power plan |
-| Health Monitor | Live CPU, RAM, disk stats |
+| Effect | What it does |
+|--------|-------------|
+| Window Shatter | Windows break into physics pieces |
+| Desktop Flood | Rising water with splash particles |
+| Chain Lightning | Electric bolts between windows |
+| Matrix Rain | Green character rain (the classic) |
+| Aurora Borealis | Northern lights shimmer across screen |
+| Black Hole | Swirling void that pulls particles |
+| Constellation | Stars and connecting lines |
+| Fire Trails | Flame particles follow MAX |
+| Snow Globe | Snowfall with wind physics |
+| Gravity Flip | Everything floats upward |
+| Bubble Float | Rising soap bubbles |
+| Garden Growing | Plants grow from window edges |
+| Firefly Night | Glowing fireflies drift around |
+| Earthquake | Screen shakes with debris |
+| Boid Swarm | Flocking particles around MAX |
+| Ripple Desktop | Water ripple distortion |
+| Portal | Swirling wormhole effect |
+| Tether Web | Spring-connected web between windows |
+| Void Tendrils | Dark energy wisps |
+| Neon Grid | Retro wireframe floor |
+| Pixel Storm | Pixel debris rain |
 
 </details>
 
 <details>
-<summary><b>System Management</b>   Kill Process, Uninstall, Temp Clean, Window Arrange, Pin, Focus, Toggles, Startup, Dark Mode, Bloat Finder</summary>
+<summary><b>Movement (5)</b> — Push, Ride, Swing, Grappling Hook, Jetpack</summary>
 
 | Feature | What it does |
 |---------|-------------|
-| Kill Process | Kill frozen/unresponsive apps |
-| App Uninstall | Remove apps from registry |
-| Temp Clean | Clean temporary files |
-| Window Arrange | Tile windows in grid |
+| Push Windows | Push real windows off your screen |
+| Ride Cursor | Jump onto your cursor and ride it |
+| Swing | Swing from window title bars like a pendulum |
+| Grappling Hook | Zip-line between windows |
+| Jetpack | Fly around with flame particles |
+
+</details>
+
+<details>
+<summary><b>Capture Tools (5)</b> — Screenshot, Region Crop, GIF Record, Color Picker, Screen OCR</summary>
+
+| Feature | What it does |
+|---------|-------------|
+| Screenshot | Full-screen capture, one click |
+| Region Screenshot | Snipping tool style — select area to capture |
+| GIF Recorder | Record screen as animated GIF |
+| Color Picker | Pick any color from any pixel (HEX/RGB) |
+| Screen OCR | Select region, extract text using Windows WinRT OCR |
+
+</details>
+
+<details>
+<summary><b>Developer Tools (6)</b> — JSON, Hash, Base64, QR, IP, Port Scanner</summary>
+
+| Feature | What it does |
+|---------|-------------|
+| JSON Formatter | Format or minify JSON with syntax highlighting |
+| Hash Generator | MD5 / SHA256 of any text |
+| Base64 Encode/Decode | Convert text to/from Base64 |
+| QR Code Generator | Turn any text or URL into a QR code |
+| IP Info | Your local + public IP address |
+| Port Scanner | Scan ports on any host |
+
+</details>
+
+<details>
+<summary><b>Productivity (7)</b> — Calculator, Timer, Stopwatch, Notes, Focus, Clipboard, Text Ops</summary>
+
+| Feature | What it does |
+|---------|-------------|
+| Scientific Calculator | Full numpad, sin/cos/tan/sqrt/log, live preview, history |
+| Timer | Countdown with progress arc around MAX |
+| Stopwatch | Pause/resume, lap tracking |
+| Quick Notes | Tabbed sticky notes, auto-save to disk |
+| Focus Mode | Minimize all distractions |
+| Clipboard History | Browse and re-copy past clipboard entries |
+| Text Operations | Upper, lower, title case, trim, reverse |
+
+</details>
+
+<details>
+<summary><b>System Tools (11)</b> — Monitor, Tracker, Process Kill, Disk, WiFi, Startup, and more</summary>
+
+| Feature | What it does |
+|---------|-------------|
+| System Monitor | Live CPU / RAM / Disk / Battery bars |
+| App Usage Tracker | Track screen time per application |
+| Process Killer | Kill frozen apps without Task Manager |
+| Disk Analyzer | Drive usage, free space, cleanup |
+| WiFi Password Reveal | Show saved WiFi passwords instantly |
+| Startup Manager | View and toggle startup applications |
+| Recycle Bin | Quick empty from MAX |
+| Quick Toggles | Dark mode, hidden files, file extensions |
+| Window Arranger | Tile/snap windows in grid layouts |
 | Window Pin | Pin any window always-on-top |
-| Focus Mode | Minimize distractions |
-| Quick Toggles | Hidden files, extensions, night light |
-| Startup Manager | View/manage startup apps |
-| Dark Mode | Toggle Windows dark mode |
-| Bloat Finder | Find memory-hungry processes |
+| Dark Mode | Toggle Windows dark/light mode |
 
 </details>
 
 <details>
-<summary><b>Personality</b>   13 expressions, clipboard reactions, idle animations, cursor dodge, app-awareness, seasonal outfits</summary>
+<summary><b>AI Chat</b> — Talk to MAX with your own API key</summary>
+
+| Feature | What it does |
+|---------|-------------|
+| AI Chat | Conversation with MAX using Gemini (free tier) / OpenAI / Claude |
+
+MAX has personality — he's a space guardian, not a generic chatbot. Bring your own API key. Nothing stored on our servers.
+
+</details>
+
+<details>
+<summary><b>Personality (10)</b> — Expressions, reactions, cheat codes, seasonal events</summary>
 
 - 13 facial expressions (happy, scared, love, dizzy, ko...)
 - Reacts to your clipboard (copies code? puts on glasses)
 - Idle animations (wave, nap, stretch, fish, game)
-- Cursor reactions (dodge, pounce)
-- App-aware (different reactions for VS Code, YouTube, Discord)
-- Seasonal outfits (Christmas hat, Halloween pumpkin)
+- Cursor reactions (dodge, pounce, wave)
+- App-aware (different reactions for VS Code, YouTube, Discord, Spotify)
+- 7 secret cheat codes (type them anywhere)
+- Seasonal outfits (Christmas, Diwali, Holi, Halloween, New Year)
 - Philosophical wisdom quotes when idle
+- Daily streak tracking with milestones
+- Context-aware speech lines
 
 </details>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+</div>
+
+<div align="center">
+
+| Layer | Technology |
+|-------|-----------|
+| Language | Python 3.12 |
+| GUI | PyQt6 (transparent full-screen overlay) |
+| OS Integration | Win32 APIs via ctypes (no admin required) |
+| Physics | Custom engine — gravity, bounce, platform collision |
+| Architecture | Priority-based state machine with effect arbitration |
+| Performance | Budget-based frame scheduler, cached sprite rendering |
+| Window Detection | Background thread + SetWinEventHook invalidation |
+| OCR | Windows WinRT (winrt-windows-media-ocr) |
+| Build | Compiled to .exe with Nuitka |
+
+</div>
 
 ---
 
@@ -336,10 +453,10 @@ He doesn't know if his planet is still alive. He works anyway.
 
 ### Failure Recovery Quick Card
 
-- MAX disappeared: Press **Ctrl+M** to summon/open menu from anywhere.
+- MAX disappeared: Check the system tray (near the clock). Right-click the tray icon.
 - MAX froze: Press **Escape** or double-click MAX to stop the active feature.
 - Physics feels broken: Set Windows Display Scaling to 100% and retry.
-- Feels laggy: Close heavy apps and keep hardware acceleration enabled.
+- Feels laggy: Close heavy apps. MAX will detect it and offer to ease up.
 - Still broken: Restart MAX and attach logs from `%APPDATA%\ProjectMAX\max.log` when filing an issue.
 
 ### Quick Troubleshooting Index
@@ -353,7 +470,7 @@ He doesn't know if his planet is still alive. He works anyway.
 <details>
 <summary><b>1. Windows SmartScreen says MAX is "unrecognized" or "dangerous". Is it a virus?</b></summary>
 <br>
-No! We are students and cannot afford a $300+ code-signing certificate yet. Windows automatically flags any new `.exe` that hasn't been officially signed by a certified publisher. 
+No! We are students and cannot afford a $300+ code-signing certificate yet. MAX has been submitted to the <b>Microsoft Store</b> for official certification.
 <br><b>Fix:</b> Click <b>"More info"</b> → <b>"Run anyway"</b>. This happens only once. MAX is 100% offline, collects zero data, and can't phone home even if he wanted to.
 </details>
 
@@ -369,8 +486,8 @@ MAX interacts directly with your operating system to do cool things (like fetch 
 <br>
 MAX is a portable/lightweight companion. To remove him permanently:
 1. Right-click MAX and select <b>Quit</b>.
-2. Delete the `MAX_Setup_v1.X.X.exe` file.
-3. (Optional) Delete his configuration/log folder located at `%APPDATA%\ProjectMAX`.
+2. Delete the MAX folder.
+3. (Optional) Delete his configuration/log folder located at <code>%APPDATA%\ProjectMAX</code>.
 </details>
 
 <details>
@@ -382,8 +499,8 @@ Right now, MAX is designed specifically for <b>Windows 10/11</b> because he uses
 <details>
 <summary><b>5. He seems to be lagging or moving slowly. How do I fix it?</b></summary>
 <br>
-MAX runs best on machines with dedicated graphics. If you are running multiple heavy applications, his animation might occasionally stutter. 
-<br><b>Hot tip:</b> Make sure you have hardware acceleration enabled and aren't running intensive games in the background while playing with his physics.
+In v2.0, MAX monitors his own performance. If your system is struggling, he'll tell you honestly and let YOU decide whether to ease up — he never silently degrades.
+<br><b>Hot tip:</b> Close heavy apps running in the background.
 </details>
 
 <details>
@@ -396,13 +513,13 @@ MAX treats your windows and taskbar as physical objects he can stand on and inte
 <details>
 <summary><b>7. Does MAX work on multiple monitors?</b></summary>
 <br>
-Yes! MAX should be able to seamlessly walk across your extended displays. If he ever gets lost on a monitor you just disconnected, you can always summon him back using his `Ctrl+M` shortcut.
+MAX currently lives on your primary monitor. Multi-monitor support is planned for a future update.
 </details>
 
 <details>
 <summary><b>8. Will MAX drain my laptop battery?</b></summary>
 <br>
-MAX is designed to be lightweight. When he's actively flipping your windows and tracking your cursor, he uses a tiny bit of GPU. However, when left alone, he enters a low-power idle state where his resource consumption is negligible.
+MAX is designed to be lightweight. When left alone, he enters a low-power idle state. If he detects your system is under load, he'll offer to ease up — your choice, always.
 </details>
 
 <details>
@@ -425,10 +542,10 @@ Absolutely. You don't need to quit the app entirely. Just use the <b>Focus Mode<
 
 | Action | How |
 |--------|-----|
-| Open menu | Right-click MAX or **Ctrl+M** |
+| Open menu | Right-click MAX |
 | Stop feature | **Escape** or double-click MAX |
-| Dismount ride | Right-click while riding |
 | Find MAX | Check system tray icon |
+| Quit | Right-click MAX → MAX → Quit |
 
 </div>
 
@@ -453,16 +570,32 @@ Absolutely. You don't need to quit the app entirely. Just use the <b>Focus Mode<
 <br><br>
 
 **Srikar Vardhan Mangadoddi**<br>
-*Founder · Lead Developer · The reason MAX exists*<br>
-NIT Silchar
+*Founder · Architect · Lead Developer*<br>
+NIT Silchar · Published NLP Researcher
 
-<br><br>
+<br>
+
+[![COLING 2025](https://img.shields.io/badge/COLING%202025-Published-4CAF50?style=flat-square)](https://aclanthology.org/people/mangadoddi-srikar-vardhan/)
+[![AACL-IJCNLP 2025](https://img.shields.io/badge/AACL--IJCNLP%202025-Published-4CAF50?style=flat-square)](https://aclanthology.org/people/mangadoddi-srikar-vardhan/)
+
+<br>
 
 *I wrote MAX because I wanted something alive on my desktop. Not a widget. Not a shortcut bar. Something with a soul. Something that thinks. I gave him my thoughts — the ones I write at 3 AM when the world is quiet. He carries them now.*
 
 <br>
 
-<a href="https://github.com/M-SRIKAR-VARDHAN">GitHub</a> · <a href="https://www.linkedin.com/in/srikar-vardhan/">LinkedIn</a>
+<a href="https://github.com/M-SRIKAR-VARDHAN">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/srikar-vardhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://scholar.google.com/citations?user=3X9GIJ8AAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+</a>
+<a href="https://aclanthology.org/people/mangadoddi-srikar-vardhan/">
+  <img src="https://img.shields.io/badge/ACL%20Anthology-D32F2F?style=for-the-badge&logo=academia&logoColor=white" alt="ACL Anthology">
+</a>
 
 </div>
 
@@ -476,34 +609,38 @@ NIT Silchar
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>Batchu Mani Kiran</h3>
+<td align="center" width="25%">
+<b>Batchu Mani Kiran</b><br>
 <sub>Developer & Engineer</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <b>Chukka Abhinay</b><br>
 <sub>Art · Design · Creative Direction</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/chukka-abhinay-164056258/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/chukka-abhinay-164056258/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <b>Sangam Sai Anish</b><br>
 <sub>Ideation · Strategy · Marketing</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/sangamsaianish/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/sangamsaianish/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <b>K N V Hemanth Sai Kumar</b><br>
 <sub>Developer</sub><br>
 <sub>NIT Silchar</sub><br>
-<a href="https://www.linkedin.com/in/hemanth-sai-kumar-knv-a62101258/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/hemanth-sai-kumar-knv-a62101258/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </td>
-<td align="center" width="33%"></td>
-<td align="center" width="33%"></td>
 </tr>
 </table>
 
@@ -511,24 +648,29 @@ NIT Silchar
 
 <div align="center">
 
-## Don't let his planet die.
+## Support MAX
 
-> *"How can a man die better than facing impossible odds, for the ashes of fathers, and the temples of gods."*
-
-<br>
-
-| Action | How |
-|--------|-----|
-| Star this repo | It costs nothing and it means everything |
-| [Report a bug](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.md) | Attach `%APPDATA%\ProjectMAX\max.log` |
-| [Request a feature](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.md) | Your ideas shape what MAX becomes |
-| Share with someone | Use the buttons below |
+> *"Don't let his planet die."*
 
 <br>
 
-[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%20Now%20he%20lives%20here.%20%F0%9F%9A%80&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
-[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=A%20desktop%20companion%20that%20walks%20on%20your%20windows%2C%20pushes%20them%20around%2C%20and%20thinks%20you%27re%20a%20god)
-[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion)
+| Method | Details |
+|--------|---------|
+| **UPI (India)** | `7386666379-2@ybl` |
+| **Solana** | `9YjTNtw95qMovJsn4KGCgTwW3R5XLWTAN8F1PStg6hUm` |
+| **Star this repo** | It costs nothing and it means everything |
+
+<br>
+
+[![Star this Repo](https://img.shields.io/badge/Star%20this%20Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-ff4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.md)
+[![Request Feature](https://img.shields.io/badge/Request%20Feature-00dc8c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.md)
+
+<br>
+
+[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%2071%20features.%20Free%20forever.%20🚀&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
+[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=Desktop%20companion%20with%2071%20features%20—%20walks%20on%20your%20windows%2C%2021%20visual%20effects%2C%20AI%20chat%2C%20free%20forever)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion%20v2.0)
 
 <br>
 
@@ -562,6 +704,6 @@ NIT Silchar
     `                            `
 
          THE QUANTUM TETHER IS STRONG
-         TRANSMISSION_01_SECURED: 
-         "If you are reading this, the Oracle knows."
+         TRANSMISSION_02_SECURED: 
+         "v2.0. 71 features. The Null Void retreats."
 -->
