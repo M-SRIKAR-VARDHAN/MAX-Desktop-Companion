@@ -18,7 +18,7 @@
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-In%20Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
 [![Offline](https://img.shields.io/badge/100%25%20Offline-brightgreen?style=for-the-badge)](.)
-[![No Data](https://img.shields.io/badge/Zero%20Data%20Collection-ff4444?style=for-the-badge)](.)
+[![No Data](https://img.shields.io/badge/All%20Data%20Stays%20Local-ff4444?style=for-the-badge)](.)
 [![Made in India](https://img.shields.io/badge/Made%20in%20India-FF9933?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/Freeware-FFD700?style=for-the-badge)](LICENSE)
 
@@ -689,7 +689,7 @@ NIT Silchar · Published NLP Researcher
 
 <br>
 
-<sub>Made in India. No data collected. 100% offline. Free forever. | [Privacy Policy](https://max-desktop-companion.vercel.app/privacy)</sub>
+<sub>Made in India. All data stays on your device. Free forever. | [Privacy Policy](https://max-desktop-companion.vercel.app/privacy)</sub>
 
 <sub>© 2026 Srikar Vardhan Mangadoddi · NIT Silchar</sub>
 
