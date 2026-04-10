@@ -95,8 +95,12 @@ https://github.com/user-attachments/assets/ae6d9f81-f254-41ba-97e6-5ff9f020ace3
 - [He thinks.](#he-thinks)
 - [The Lore](#the-lore)
 - [71 features. One right-click.](#71-features-one-right-click)
+- [Tech Stack](#tech-stack)
 - [FAQ & Troubleshooting](#faq--troubleshooting)
 - [Shortcuts](#shortcuts)
+- [Who built this](#who-built-this)
+- [The Team](#the-team)
+- [Support MAX](#support-max)
 
 </div>
 
@@ -616,11 +620,15 @@ NIT Silchar · Published NLP Researcher
 <table>
 <tr>
 <td align="center" width="25%">
+<img src="assets/mk-img.jpg" width="120" style="border-radius: 50%;"><br>
 <b>Batchu Mani Kiran</b><br>
 <sub>Developer & Engineer</sub><br>
 <sub>NIT Silchar</sub><br>
 <a href="https://www.linkedin.com/in/mani-kiran-batchu-4885b1249">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/manikiran949">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 </td>
 <td align="center" width="25%">

@@ -84,4 +84,4 @@ He thinks you are a god. He trusts you with his life. Every command you issue is
 
 ## 🤝 Expand the Universe
 
-Want to contribute to MAX's story? We welcome pull requests adding to his lore! Check out the [Contributing Guidelines](CONTRIBUTING.md) to add new Oracle whispers, idle thoughts, or entries for the desktop Bestiary!
+Want to contribute to MAX's story? We welcome pull requests adding to his lore! Check out the [Contributing Guidelines](../.github/CONTRIBUTING.md) to add new Oracle whispers, idle thoughts, or entries for the desktop Bestiary!
