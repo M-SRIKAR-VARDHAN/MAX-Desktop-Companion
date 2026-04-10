@@ -12,7 +12,7 @@
 
 ---
 
-## All Features (45+)
+## All Features (71)
 
 ### Fun (right-click → Fun)
 | Feature | What it does |

@@ -669,8 +669,8 @@ NIT Silchar · Published NLP Researcher
 <br>
 
 [![Star this Repo](https://img.shields.io/badge/Star%20this%20Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
-[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-ff4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.md)
-[![Request Feature](https://img.shields.io/badge/Request%20Feature-00dc8c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.md)
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-ff4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=bug_report.yml)
+[![Request Feature](https://img.shields.io/badge/Request%20Feature-00dc8c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/issues/new?template=feature_request.yml)
 
 <br>
 
