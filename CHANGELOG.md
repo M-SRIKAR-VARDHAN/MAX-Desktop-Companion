@@ -5,6 +5,15 @@ All notable changes to the MAX Desktop Companion project will be documented in t
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - The Complete Rebuild
+
+### Added
+- **AI Chat Integration:** Added support for bringing your own API key (Gemini, OpenAI, Claude) to talk directly to MAX.
+- **Engine Rebuild:** Completely new architecture featuring custom physics, a budget-based frame scheduler, and cached rendering for smooth 60fps performance.
+- **21 Visual Effects:** Added Shatter, Flood, Lightning, Matrix Rain, Aurora, Black Holes, and many others.
+- **System Utilities:** Live System Monitor (CPU/RAM/Disk/Battery bars), Screen OCR via Windows WinRT, and App Usage Tracker.
+- **Productivity & Developer Tools:** Scientific Calculator, Tabbed Quick Notes, Snipping-style Region Screenshot. Added Dev Tools including JSON formatter, Hash generator, Base64 encode/decode, and QR code generator.
+
 ## [1.0.0] - The Crash Landing
 
 ### Added

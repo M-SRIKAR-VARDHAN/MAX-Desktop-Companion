@@ -175,7 +175,7 @@ For complete details on our data practices, please review the [Privacy Policy](h
 <br>
 
 <div align="center">
-<img src="assets/screenshort.gif" width="700">
+<img src="assets/screenshot.gif" width="700">
 </div>
 
 <p align="center">Screenshots. One click. Saved. No apps, no shortcuts to memorize.</p>
