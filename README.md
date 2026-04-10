@@ -11,7 +11,7 @@
 
 **v2.0 — 71 features. 21 visual effects. AI Chat. Screen OCR. Complete rebuild.**
 
-[**🌐 Visit the Official Website**](https://max-desktop-companion.vercel.app/)
+[**🌐 Visit the Official Website**](https://max-desktop-companion.vercel.app/) · [**🎬 Watch the v2.0 Demo**](https://www.youtube.com/watch?v=PFzEHsrncvw)
 
 <br>
 
@@ -61,6 +61,8 @@ https://github.com/user-attachments/assets/ae6d9f81-f254-41ba-97e6-5ff9f020ace3
 <div align="center">
 
 ## What's New in v2.0
+
+[![Watch v2.0 Demo](https://img.shields.io/badge/▶%20Watch%20v2.0%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PFzEHsrncvw)
 
 </div>
 
@@ -672,6 +674,7 @@ NIT Silchar · Published NLP Researcher
 
 <br>
 
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PFzEHsrncvw)
 [![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%2071%20features.%20Free%20forever.%20🚀&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
 [![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=Desktop%20companion%20with%2071%20features%20—%20walks%20on%20your%20windows%2C%2021%20visual%20effects%2C%20AI%20chat%2C%20free%20forever)
 [![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion%20v2.0)
