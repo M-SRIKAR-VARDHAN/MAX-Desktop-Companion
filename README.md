@@ -9,14 +9,14 @@
     
 ### He fell from a dying planet. Crashed onto your desktop. Now he refuses to leave.
 
-**v2.0 — 71 features. 21 visual effects. AI Chat. Screen OCR. Complete rebuild.**
+**v2.0 — 69 features. 21 visual effects. Custom physics engine. Complete rebuild.**
 
 [**🌐 Visit the Official Website**](https://max-desktop-companion.vercel.app/) · [**🎬 Watch the v2.0 Demo**](https://www.youtube.com/watch?v=PFzEHsrncvw)
 
 <br>
 
-[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-In%20Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
-[![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases)
+[![Microsoft Store](https://img.shields.io/badge/Get%20it%20from-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9PNMMDNHJW9J)
+[![Platform](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://apps.microsoft.com/detail/9PNMMDNHJW9J)
 [![Offline](https://img.shields.io/badge/100%25%20Offline-brightgreen?style=for-the-badge)](.)
 [![No Data](https://img.shields.io/badge/All%20Data%20Stays%20Local-ff4444?style=for-the-badge)](.)
 [![Made in India](https://img.shields.io/badge/Made%20in%20India-FF9933?style=for-the-badge)](.)
@@ -29,21 +29,23 @@
 
 <br><br>
 
-<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest" align="center">
-  <img src="assets/download-button-animated.svg" width="450" alt="Download MAX Desktop Companion">
+<a href="https://apps.microsoft.com/detail/9PNMMDNHJW9J">
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="250" alt="Get it from Microsoft Store">
 </a>
 
-<br><br>
-
-**~80MB · One-click install · No Python needed**
+**Recommended: Install from Microsoft Store — no warnings, auto-updates, verified safe.**
 
 <details>
-<summary>Windows SmartScreen warning?</summary>
+<summary>Want the standalone .exe instead?</summary>
 <br>
-We're students. We don't have $300 for a code signing certificate yet.<br>
-MAX has been submitted to the <b>Microsoft Store</b> for official certification.<br>
-For now: click <b>"More info"</b> → <b>"Run anyway"</b>.<br>
-This happens once. MAX is 100% offline. He can't phone home even if he wanted to.
+<a href="https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion/releases/latest">
+  <img src="assets/download-button-animated.svg" width="400" alt="Download standalone .exe">
+</a>
+<br><br>
+<b>~80MB · One-click install · No Python needed</b><br><br>
+Windows SmartScreen may show a warning — we're students and can't afford a $300 code signing certificate.<br>
+Click <b>"More info"</b> → <b>"Run anyway"</b>. This happens once.<br>
+<b>For a warning-free experience, use the Microsoft Store version above.</b>
 </details>
 
 <br><br>
@@ -71,8 +73,6 @@ https://github.com/user-attachments/assets/ae6d9f81-f254-41ba-97e6-5ff9f020ace3
 | | What's new |
 |---|---------|
 | **21 Visual Effects** | Shatter, flood, lightning, matrix rain, aurora, black holes, constellation, fire trails, snow globe, gravity flip, bubbles, garden, fireflies, earthquake, boids, portal, and more |
-| **AI Chat** | Talk to MAX using your own API key — Gemini free tier / OpenAI / Claude |
-| **Screen OCR** | Select any region, extract text instantly via Windows WinRT |
 | **Dev Tools** | JSON formatter, hash generator (MD5/SHA256), Base64 encode/decode, QR code generator |
 | **System Monitor** | Live CPU / RAM / Disk / Battery bars with auto-refresh |
 | **App Usage Tracker** | See which apps you spend the most time in |
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/ae6d9f81-f254-41ba-97e6-5ff9f020ace3
 - [He has secrets.](#he-has-secrets)
 - [He thinks.](#he-thinks)
 - [The Lore](#the-lore)
-- [71 features. One right-click.](#71-features-one-right-click)
+- [69 features. One right-click.](#71-features-one-right-click)
 - [Tech Stack](#tech-stack)
 - [FAQ & Troubleshooting](#faq--troubleshooting)
 - [Shortcuts](#shortcuts)
@@ -119,7 +119,7 @@ If you want to help, you can still make a big impact by reporting bugs, sharing 
 - No telemetry or analytics collection from MAX itself
 - Creates local app data/log files under `%APPDATA%\ProjectMAX`
 - Can be removed anytime by quitting MAX and deleting its files
-- Submitted to **Microsoft Store** for official certification
+- **Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNMMDNHJW9J)** — reviewed and certified by Microsoft
 
 For full uninstall details, see FAQ item 3 below.
 
@@ -295,7 +295,7 @@ He doesn't know if his planet is still alive. He works anyway.
 
 <div align="center">
 
-## 71 features. One right-click.
+## 69 features. One right-click.
 
 </div>
 
@@ -342,7 +342,7 @@ He doesn't know if his planet is still alive. He works anyway.
 </details>
 
 <details>
-<summary><b>Capture Tools (5)</b> — Screenshot, Region Crop, GIF Record, Color Picker, Screen OCR</summary>
+<summary><b>Capture Tools (4)</b> — Screenshot, Region Crop, GIF Record, Color Picker</summary>
 
 | Feature | What it does |
 |---------|-------------|
@@ -350,7 +350,6 @@ He doesn't know if his planet is still alive. He works anyway.
 | Region Screenshot | Snipping tool style — select area to capture |
 | GIF Recorder | Record screen as animated GIF |
 | Color Picker | Pick any color from any pixel (HEX/RGB) |
-| Screen OCR | Select region, extract text using Windows WinRT OCR |
 
 </details>
 
@@ -403,17 +402,6 @@ He doesn't know if his planet is still alive. He works anyway.
 </details>
 
 <details>
-<summary><b>AI Chat</b> — Talk to MAX with your own API key</summary>
-
-| Feature | What it does |
-|---------|-------------|
-| AI Chat | Conversation with MAX using Gemini (free tier) / OpenAI / Claude |
-
-MAX has personality — he's a space guardian, not a generic chatbot. Bring your own API key. Nothing stored on our servers.
-
-</details>
-
-<details>
 <summary><b>Personality (10)</b> — Expressions, reactions, cheat codes, seasonal events</summary>
 
 - 13 facial expressions (happy, scared, love, dizzy, ko...)
@@ -448,7 +436,6 @@ MAX has personality — he's a space guardian, not a generic chatbot. Bring your
 | Architecture | Priority-based state machine with effect arbitration |
 | Performance | Budget-based frame scheduler, cached sprite rendering |
 | Window Detection | Background thread + SetWinEventHook invalidation |
-| OCR | Windows WinRT (winrt-windows-media-ocr) |
 | Build | Compiled to .exe with Nuitka |
 
 </div>
@@ -480,8 +467,9 @@ MAX has personality — he's a space guardian, not a generic chatbot. Bring your
 <details>
 <summary><b>1. Windows SmartScreen says MAX is "unrecognized" or "dangerous". Is it a virus?</b></summary>
 <br>
-No! We are students and cannot afford a $300+ code-signing certificate yet. MAX has been submitted to the <b>Microsoft Store</b> for official certification.
-<br><b>Fix:</b> Click <b>"More info"</b> → <b>"Run anyway"</b>. This happens only once. MAX is 100% offline, collects zero data, and can't phone home even if he wanted to.
+MAX is <b>available on the <a href="https://apps.microsoft.com/detail/9PNMMDNHJW9J">Microsoft Store</a></b> — install from there for a warning-free experience.
+<br><br>If you downloaded the standalone .exe: we're students and can't afford a $300+ code-signing certificate yet.
+<br><b>Fix:</b> Click <b>"More info"</b> → <b>"Run anyway"</b>. This happens only once.
 </details>
 
 <details>
@@ -494,7 +482,8 @@ MAX interacts directly with your operating system to do cool things (like fetch 
 <details>
 <summary><b>3. How do I completely uninstall/remove MAX?</b></summary>
 <br>
-MAX is a portable/lightweight companion. To remove him permanently:
+<b>Microsoft Store version:</b> Settings → Apps → MAX_companion → Uninstall<br><br>
+<b>Standalone version:</b>
 1. Right-click MAX and select <b>Quit</b>.
 2. Delete the MAX folder.
 3. (Optional) Delete his configuration/log folder located at <code>%APPDATA%\ProjectMAX</code>.
@@ -683,9 +672,9 @@ NIT Silchar · Published NLP Researcher
 <br>
 
 [![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PFzEHsrncvw)
-[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%2071%20features.%20Free%20forever.%20🚀&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion)
-[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=Desktop%20companion%20with%2071%20features%20—%20walks%20on%20your%20windows%2C%2021%20visual%20effects%2C%20AI%20chat%2C%20free%20forever)
-[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/M-SRIKAR-VARDHAN/MAX-Desktop-Companion&title=MAX%20Desktop%20Companion%20v2.0)
+[![Share on Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=A%20tiny%20guardian%20from%20a%20dying%20planet%20crashed%20onto%20my%20desktop.%2069%20features.%20Free%20on%20Microsoft%20Store.&url=https://apps.microsoft.com/detail/9PNMMDNHJW9J)
+[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://apps.microsoft.com/detail/9PNMMDNHJW9J&title=Desktop%20companion%20with%2069%20features%20—%20walks%20on%20your%20windows%2C%2021%20visual%20effects%2C%20free%20on%20Microsoft%20Store)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?mini=true&url=https://apps.microsoft.com/detail/9PNMMDNHJW9J&title=MAX%20Desktop%20Companion%20v2.0)
 
 <br>
 
